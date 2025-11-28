@@ -1,0 +1,501 @@
+Model,Brand,OS_Version,Screen_Size_Inches,Battery_mAh,RAM_GB,Storage_GB,Rear_Camera_MP,Front_Camera_MP,Processor,Refresh_Rate_Hz,Connectivity,Face_Unlock,Fingerprint_Sensor,Dual_SIM,Warranty,Screen_Type,Charging_Port,Fast_Charging,Body_Material,Weight_g,Thickness_mm,Price_Category
+SAM-589,Samsung,Android 12,5.16,3800,12,512,96,40,Exynos,144,4G,Yes,Yes,No,2 Years,LCD,Lightning,No,Plastic,147,8.8,Low
+VIV-521,Vivo,Android 11,5.53,3400,12,32,48,40,Snapdragon,144,4G,No,No,Yes,1 Year,OLED,Lightning,No,Plastic,152,8.9,Medium
+XIA-595,Xiaomi,Android 10,6.74,5200,8,64,24,10,MediaTek,120,4G,Yes,Yes,No,No Warranty,IPS,Type-C,Yes,Plastic,156,9.4,Medium
+TEC-160,Tecno,iOS 14,5.73,3100,4,128,20,30,MediaTek,60,5G,Yes,No,Yes,1 Year,OLED,Lightning,Yes,Plastic,221,7.5,Low
+APP-735,Apple,Android 12,5.22,3600,2,128,92,15,Snapdragon,60,4G,Yes,No,Yes,1 Year,AMOLED,Lightning,Yes,Plastic,187,9.3,Medium
+HUA-993,Huawei,Android 10,5.56,5200,3,256,100,20,Exynos,90,4G,No,No,Yes,2 Years,AMOLED,Lightning,Yes,Glass,226,6.6,Very High
+XIA-460,Xiaomi,Android 11,5.33,4500,2,512,72,25,Snapdragon,144,5G,Yes,No,Yes,1 Year,IPS,Lightning,Yes,Metal,167,7.4,Low
+VIV-709,Vivo,Android 12,5.96,5700,3,128,48,10,MediaTek,120,5G,Yes,No,Yes,2 Years,IPS,Micro-USB,No,Plastic,218,8.5,Low
+APP-107,Apple,iOS 14,6.57,4300,2,128,8,25,Kirin,144,5G,Yes,Yes,Yes,No Warranty,IPS,Lightning,No,Glass,223,8.5,Low
+TEC-538,Tecno,iOS 15,6.62,4400,12,64,20,25,Apple Bionic,120,5G,Yes,Yes,Yes,2 Years,LCD,Lightning,No,Glass,160,8.5,Medium
+SAM-511,Samsung,iOS 15,5.58,5700,3,32,92,15,Exynos,120,5G,Yes,No,No,1 Year,OLED,Lightning,No,Metal,177,7.2,Low
+VIV-788,Vivo,Android 11,5.43,6000,3,512,36,30,Exynos,60,5G,Yes,No,Yes,No Warranty,OLED,Micro-USB,No,Metal,127,8.0,Very High
+OPP-463,Oppo,Android 12,6.87,5400,4,256,8,20,Apple Bionic,90,4G,No,No,Yes,1 Year,IPS,Micro-USB,No,Metal,120,8.2,Low
+OPP-562,Oppo,iOS 14,5.88,3500,8,512,64,35,Kirin,120,4G,Yes,No,Yes,1 Year,OLED,Type-C,Yes,Glass,169,8.4,Very High
+XIA-739,Xiaomi,iOS 15,6.42,4700,2,64,104,25,Snapdragon,90,5G,No,Yes,No,No Warranty,AMOLED,Type-C,No,Metal,121,9.4,Low
+APP-606,Apple,iOS 15,6.74,4600,6,512,88,15,MediaTek,60,4G,Yes,No,No,No Warranty,IPS,Lightning,No,Plastic,144,7.2,Very High
+INF-515,Infinix,iOS 15,5.89,4100,12,64,16,35,MediaTek,90,5G,Yes,No,Yes,No Warranty,IPS,Type-C,Yes,Plastic,198,7.4,Low
+VIV-188,Vivo,iOS 15,6.04,4400,3,64,104,15,Kirin,144,5G,No,Yes,No,No Warranty,LCD,Lightning,No,Metal,185,9.2,Very High
+SAM-302,Samsung,Android 12,5.24,4600,6,32,20,20,Kirin,144,5G,No,Yes,No,2 Years,LCD,Type-C,No,Plastic,120,8.5,High
+OPP-533,Oppo,Android 10,5.01,4200,8,256,72,30,Exynos,90,4G,Yes,Yes,No,No Warranty,IPS,Lightning,Yes,Plastic,207,8.9,Medium
+HUA-846,Huawei,Android 12,5.56,3400,4,64,28,35,Snapdragon,90,4G,No,Yes,No,1 Year,LCD,Lightning,Yes,Plastic,140,7.8,Very High
+REA-713,Realme,Android 10,6.85,3100,6,256,28,20,Snapdragon,60,5G,Yes,No,No,2 Years,IPS,Type-C,Yes,Metal,206,8.8,High
+SAM-198,Samsung,iOS 14,5.74,3600,3,256,104,35,Apple Bionic,60,4G,Yes,No,No,1 Year,OLED,Type-C,No,Glass,195,7.2,High
+TEC-731,Tecno,Android 11,6.66,4000,2,256,24,35,Apple Bionic,60,4G,Yes,Yes,No,2 Years,LCD,Lightning,Yes,Glass,133,9.4,Medium
+REA-711,Realme,Android 10,6.61,3300,3,32,100,15,Exynos,144,5G,Yes,No,Yes,2 Years,LCD,Lightning,No,Glass,238,7.3,Low
+HUA-482,Huawei,iOS 15,6.0,4700,12,128,88,25,Exynos,144,4G,No,Yes,Yes,1 Year,LCD,Micro-USB,No,Glass,146,7.8,Very High
+XIA-213,Xiaomi,iOS 15,6.84,4600,2,512,52,5,Apple Bionic,120,4G,No,No,No,1 Year,OLED,Type-C,Yes,Metal,220,7.9,Low
+TEC-727,Tecno,iOS 15,6.99,4500,2,64,8,40,Kirin,120,5G,Yes,No,No,1 Year,IPS,Type-C,No,Glass,206,6.8,Medium
+TEC-511,Tecno,Android 12,6.59,3600,2,512,92,15,Kirin,90,4G,No,No,No,No Warranty,AMOLED,Lightning,Yes,Metal,122,6.6,High
+REA-183,Realme,Android 10,6.06,5500,4,128,108,20,Apple Bionic,90,4G,Yes,No,Yes,No Warranty,LCD,Micro-USB,No,Plastic,211,9.3,Very High
+TEC-562,Tecno,Android 11,5.39,3100,2,128,80,20,Kirin,120,4G,No,No,No,2 Years,AMOLED,Type-C,Yes,Glass,239,9.4,Medium
+VIV-606,Vivo,iOS 14,6.19,4000,2,64,68,35,MediaTek,90,4G,No,No,No,No Warranty,IPS,Micro-USB,No,Metal,128,6.8,Very High
+OPP-952,Oppo,Android 11,5.88,3000,4,256,32,30,Snapdragon,120,4G,No,No,No,2 Years,OLED,Lightning,Yes,Metal,146,6.5,Medium
+INF-893,Infinix,Android 12,6.57,4300,8,64,72,30,MediaTek,144,5G,No,No,Yes,2 Years,OLED,Lightning,No,Plastic,139,8.5,Medium
+XIA-881,Xiaomi,Android 12,5.08,4700,2,128,44,15,Kirin,120,5G,No,No,Yes,No Warranty,AMOLED,Lightning,Yes,Glass,231,9.2,Medium
+INF-763,Infinix,Android 10,6.36,4900,6,32,92,25,MediaTek,90,5G,No,No,Yes,No Warranty,LCD,Lightning,No,Metal,122,7.0,Low
+VIV-425,Vivo,Android 11,6.27,5400,12,32,64,40,Kirin,120,4G,No,No,Yes,No Warranty,LCD,Micro-USB,Yes,Glass,154,7.3,Medium
+TEC-863,Tecno,iOS 15,6.0,4900,6,64,52,5,Kirin,60,4G,No,No,No,1 Year,AMOLED,Micro-USB,Yes,Glass,236,7.5,Very High
+HUA-683,Huawei,Android 10,6.23,6000,4,512,64,20,Snapdragon,90,4G,No,Yes,Yes,1 Year,OLED,Type-C,Yes,Glass,157,9.3,Very High
+INF-493,Infinix,Android 10,6.37,4100,6,512,80,10,Snapdragon,60,5G,No,No,Yes,2 Years,LCD,Micro-USB,Yes,Plastic,222,8.7,Medium
+XIA-452,Xiaomi,Android 12,6.87,5000,12,256,24,40,Exynos,60,5G,No,Yes,Yes,1 Year,OLED,Lightning,No,Metal,223,6.6,High
+INF-488,Infinix,iOS 15,6.63,5900,4,512,60,35,Exynos,90,4G,No,Yes,No,2 Years,IPS,Micro-USB,No,Metal,135,6.9,Low
+HUA-509,Huawei,Android 10,6.42,3100,6,512,44,30,Kirin,120,4G,No,No,No,2 Years,IPS,Lightning,Yes,Plastic,177,7.2,Low
+OPP-320,Oppo,iOS 14,5.22,3500,2,256,96,30,Snapdragon,90,4G,Yes,No,No,1 Year,LCD,Lightning,Yes,Glass,193,7.1,Medium
+TEC-140,Tecno,iOS 15,6.3,5100,12,64,76,30,Kirin,120,5G,Yes,No,No,2 Years,OLED,Lightning,Yes,Metal,185,7.4,High
+APP-598,Apple,Android 12,6.92,4000,3,512,36,5,Apple Bionic,144,5G,Yes,Yes,Yes,2 Years,OLED,Type-C,Yes,Plastic,143,7.4,Very High
+VIV-498,Vivo,iOS 14,5.69,4100,2,32,56,30,Snapdragon,120,4G,Yes,No,No,2 Years,AMOLED,Type-C,No,Plastic,161,7.0,Very High
+SAM-608,Samsung,iOS 14,6.65,5800,3,256,80,25,Snapdragon,120,5G,No,No,Yes,No Warranty,AMOLED,Lightning,No,Metal,150,7.3,High
+INF-913,Infinix,Android 10,5.73,4100,12,32,40,25,MediaTek,90,5G,No,No,Yes,No Warranty,OLED,Lightning,Yes,Glass,163,7.9,Very High
+OPP-162,Oppo,Android 12,6.42,4700,2,256,76,5,Snapdragon,144,4G,No,Yes,No,2 Years,IPS,Type-C,Yes,Metal,184,7.2,Very High
+TEC-685,Tecno,Android 10,5.89,3500,12,32,8,5,Snapdragon,90,4G,Yes,No,Yes,No Warranty,OLED,Lightning,No,Plastic,127,8.5,Very High
+REA-435,Realme,iOS 15,5.66,4700,12,512,28,10,Exynos,60,4G,No,No,No,2 Years,LCD,Lightning,No,Plastic,161,7.5,Low
+XIA-136,Xiaomi,Android 10,5.54,3400,2,32,80,25,Apple Bionic,60,5G,No,Yes,Yes,2 Years,AMOLED,Micro-USB,No,Glass,146,7.6,Medium
+INF-274,Infinix,iOS 14,5.5,3000,4,256,44,10,Exynos,90,5G,Yes,Yes,Yes,2 Years,OLED,Lightning,Yes,Glass,240,7.5,Low
+REA-990,Realme,iOS 15,5.05,5900,12,128,52,30,Kirin,120,5G,No,Yes,No,1 Year,AMOLED,Micro-USB,Yes,Metal,188,9.4,Medium
+SAM-203,Samsung,iOS 14,5.49,5100,3,128,64,30,Exynos,120,4G,Yes,No,Yes,No Warranty,AMOLED,Type-C,No,Plastic,197,7.8,High
+HUA-709,Huawei,Android 10,6.24,3800,4,256,28,40,Apple Bionic,120,5G,No,No,No,2 Years,LCD,Type-C,Yes,Metal,227,6.7,High
+VIV-141,Vivo,iOS 14,6.57,4100,3,64,32,10,Exynos,90,4G,No,Yes,No,1 Year,AMOLED,Micro-USB,Yes,Metal,197,7.3,Low
+SAM-724,Samsung,Android 12,5.89,5500,12,256,28,10,Snapdragon,60,5G,Yes,Yes,Yes,No Warranty,IPS,Type-C,No,Glass,160,9.0,Very High
+TEC-193,Tecno,Android 12,5.15,4500,8,256,64,15,Exynos,60,4G,Yes,Yes,No,1 Year,LCD,Lightning,Yes,Glass,239,9.3,Medium
+XIA-721,Xiaomi,iOS 15,5.71,3600,6,128,12,10,Kirin,60,5G,Yes,Yes,No,2 Years,IPS,Micro-USB,Yes,Plastic,183,9.0,Low
+HUA-565,Huawei,Android 11,5.33,5900,6,128,76,10,Apple Bionic,120,5G,Yes,No,Yes,2 Years,IPS,Micro-USB,Yes,Plastic,236,8.1,Very High
+HUA-332,Huawei,iOS 15,5.28,4200,6,256,8,5,Kirin,120,5G,Yes,No,Yes,No Warranty,IPS,Micro-USB,No,Glass,183,7.1,Medium
+SAM-890,Samsung,Android 12,6.32,4400,3,32,44,10,Kirin,120,4G,No,No,Yes,2 Years,OLED,Type-C,Yes,Glass,142,8.4,High
+INF-935,Infinix,Android 11,5.11,5800,2,32,28,25,Kirin,60,5G,Yes,No,Yes,1 Year,OLED,Type-C,No,Glass,168,7.8,Medium
+XIA-854,Xiaomi,Android 11,5.27,3400,12,64,64,35,Exynos,90,5G,Yes,No,No,1 Year,OLED,Type-C,No,Plastic,206,8.5,Very High
+XIA-818,Xiaomi,iOS 14,6.14,3400,4,256,8,5,Exynos,90,4G,No,Yes,No,2 Years,LCD,Lightning,Yes,Metal,175,7.1,Very High
+OPP-522,Oppo,Android 12,5.2,5200,2,256,24,5,Snapdragon,144,5G,Yes,Yes,No,1 Year,IPS,Lightning,No,Metal,231,8.6,Low
+SAM-885,Samsung,Android 12,6.58,3600,6,256,16,20,Exynos,120,5G,Yes,No,No,1 Year,AMOLED,Type-C,No,Plastic,223,7.5,Low
+VIV-956,Vivo,iOS 15,5.42,4100,8,256,44,30,MediaTek,144,4G,Yes,No,Yes,No Warranty,IPS,Type-C,Yes,Glass,178,7.9,Low
+OPP-648,Oppo,iOS 14,6.13,3100,2,128,56,25,Apple Bionic,120,4G,No,Yes,Yes,No Warranty,AMOLED,Micro-USB,Yes,Plastic,182,8.6,Medium
+REA-579,Realme,Android 11,5.92,3600,2,64,12,5,Snapdragon,60,4G,No,No,Yes,No Warranty,LCD,Type-C,No,Metal,198,8.1,High
+XIA-615,Xiaomi,iOS 14,6.23,5600,4,512,44,15,Kirin,90,5G,No,No,Yes,2 Years,OLED,Micro-USB,No,Plastic,196,6.9,High
+VIV-947,Vivo,iOS 14,6.97,3900,2,64,72,40,MediaTek,144,4G,Yes,Yes,No,1 Year,OLED,Micro-USB,Yes,Plastic,147,9.0,Very High
+SAM-150,Samsung,Android 12,6.16,4700,4,256,12,40,MediaTek,60,4G,No,No,No,No Warranty,OLED,Micro-USB,Yes,Plastic,210,6.6,High
+HUA-315,Huawei,iOS 15,6.35,3100,6,64,88,40,MediaTek,60,4G,No,No,Yes,2 Years,AMOLED,Type-C,No,Plastic,158,8.5,Medium
+INF-990,Infinix,iOS 15,6.34,4200,6,32,48,40,Exynos,144,5G,Yes,Yes,No,1 Year,AMOLED,Lightning,No,Metal,149,9.4,High
+SAM-491,Samsung,iOS 14,5.87,5500,8,256,64,40,Apple Bionic,60,5G,Yes,Yes,Yes,1 Year,LCD,Lightning,Yes,Glass,224,7.5,Medium
+VIV-870,Vivo,Android 11,6.3,5000,4,512,56,30,Exynos,60,4G,Yes,No,Yes,1 Year,AMOLED,Type-C,No,Plastic,123,7.0,High
+OPP-323,Oppo,iOS 15,6.02,5300,6,64,64,40,Snapdragon,120,5G,Yes,Yes,Yes,2 Years,OLED,Micro-USB,No,Metal,195,7.1,High
+OPP-969,Oppo,Android 10,6.15,3900,4,64,84,15,Apple Bionic,90,4G,Yes,Yes,Yes,1 Year,LCD,Type-C,Yes,Plastic,223,9.3,Very High
+OPP-455,Oppo,Android 11,6.61,5900,8,64,8,25,MediaTek,144,5G,No,Yes,No,2 Years,AMOLED,Micro-USB,Yes,Metal,154,6.9,Low
+VIV-598,Vivo,Android 10,6.33,4400,2,64,12,25,Exynos,90,4G,Yes,No,Yes,No Warranty,IPS,Type-C,Yes,Glass,178,9.0,Low
+REA-508,Realme,iOS 14,5.49,6000,4,32,84,25,Apple Bionic,90,5G,Yes,Yes,Yes,2 Years,IPS,Micro-USB,No,Metal,152,8.9,High
+TEC-420,Tecno,iOS 15,5.13,4100,12,128,88,35,Snapdragon,60,5G,No,No,No,2 Years,OLED,Lightning,Yes,Metal,129,8.5,Low
+VIV-187,Vivo,Android 10,5.52,5500,6,512,28,5,Apple Bionic,90,4G,No,No,No,2 Years,OLED,Lightning,No,Metal,212,9.1,High
+HUA-739,Huawei,Android 11,5.92,4000,12,32,72,20,Snapdragon,144,4G,Yes,Yes,No,No Warranty,AMOLED,Type-C,Yes,Plastic,225,6.6,High
+INF-145,Infinix,iOS 14,5.66,3500,4,128,72,10,MediaTek,144,5G,Yes,Yes,Yes,No Warranty,OLED,Type-C,Yes,Glass,235,8.8,High
+XIA-581,Xiaomi,Android 10,5.74,5000,3,64,40,30,Apple Bionic,60,5G,No,No,No,2 Years,IPS,Lightning,Yes,Plastic,123,7.8,High
+XIA-761,Xiaomi,iOS 15,6.92,4800,2,512,84,10,Exynos,90,5G,No,Yes,No,1 Year,IPS,Lightning,Yes,Glass,210,8.1,Very High
+OPP-283,Oppo,iOS 14,5.32,5000,2,512,28,10,Kirin,120,5G,No,No,No,No Warranty,AMOLED,Type-C,No,Glass,131,9.4,Medium
+XIA-462,Xiaomi,Android 11,6.89,3800,4,64,104,30,Kirin,60,4G,Yes,Yes,No,2 Years,LCD,Micro-USB,No,Plastic,197,8.9,Medium
+XIA-190,Xiaomi,iOS 15,6.68,3800,12,256,60,10,MediaTek,90,4G,Yes,No,No,No Warranty,AMOLED,Type-C,Yes,Plastic,179,8.6,Low
+REA-266,Realme,iOS 14,6.56,5100,3,128,8,20,Exynos,144,5G,No,No,No,1 Year,OLED,Lightning,No,Plastic,238,6.7,Very High
+VIV-900,Vivo,Android 12,5.29,4400,12,512,24,10,MediaTek,90,5G,No,No,No,No Warranty,AMOLED,Micro-USB,No,Plastic,189,8.9,High
+TEC-835,Tecno,Android 10,6.01,5300,3,64,40,25,Apple Bionic,144,4G,Yes,No,Yes,No Warranty,LCD,Micro-USB,Yes,Metal,237,9.2,High
+SAM-439,Samsung,iOS 15,6.06,3700,3,128,24,10,Apple Bionic,120,4G,Yes,No,No,No Warranty,AMOLED,Lightning,No,Plastic,138,6.7,Very High
+SAM-456,Samsung,Android 12,5.27,5400,4,64,32,20,Exynos,144,4G,Yes,No,Yes,2 Years,AMOLED,Lightning,No,Metal,225,8.0,Low
+TEC-360,Tecno,iOS 14,5.24,3700,4,256,8,35,Snapdragon,144,5G,No,Yes,No,No Warranty,OLED,Lightning,No,Plastic,166,8.1,Very High
+OPP-169,Oppo,iOS 14,6.46,4200,6,128,96,25,Kirin,120,4G,Yes,No,Yes,1 Year,LCD,Micro-USB,No,Plastic,225,7.3,Low
+OPP-961,Oppo,Android 10,6.17,4100,12,64,60,40,Snapdragon,120,4G,Yes,No,Yes,No Warranty,AMOLED,Micro-USB,No,Plastic,154,9.0,Medium
+SAM-496,Samsung,Android 12,6.02,3800,6,64,84,20,Exynos,120,4G,Yes,Yes,No,2 Years,IPS,Lightning,No,Glass,224,9.1,Medium
+SAM-227,Samsung,Android 10,5.34,4500,8,128,16,40,Exynos,60,4G,Yes,Yes,Yes,No Warranty,AMOLED,Lightning,Yes,Metal,123,7.7,Medium
+REA-940,Realme,Android 10,6.74,3600,8,128,108,20,MediaTek,120,5G,No,No,Yes,No Warranty,OLED,Type-C,Yes,Plastic,223,7.6,Very High
+INF-256,Infinix,iOS 14,5.45,3800,4,256,40,20,MediaTek,90,4G,No,No,Yes,No Warranty,IPS,Type-C,Yes,Plastic,208,8.3,Very High
+XIA-539,Xiaomi,iOS 15,5.08,3500,4,32,84,10,Snapdragon,90,4G,Yes,Yes,Yes,No Warranty,IPS,Micro-USB,No,Metal,169,9.5,Very High
+SAM-397,Samsung,Android 10,5.83,3800,2,512,104,25,MediaTek,60,4G,No,Yes,No,2 Years,LCD,Micro-USB,No,Glass,174,9.1,Medium
+TEC-853,Tecno,iOS 15,5.54,5900,4,32,20,10,Exynos,144,5G,Yes,Yes,Yes,1 Year,AMOLED,Type-C,Yes,Glass,235,8.4,Very High
+APP-772,Apple,Android 12,5.37,4600,6,128,48,30,Kirin,144,5G,Yes,No,Yes,No Warranty,IPS,Lightning,Yes,Glass,213,8.2,Very High
+INF-501,Infinix,Android 10,5.66,5100,8,256,44,40,Exynos,144,4G,Yes,No,No,No Warranty,IPS,Micro-USB,No,Plastic,135,9.4,Very High
+TEC-347,Tecno,iOS 14,6.14,5100,4,512,56,25,MediaTek,90,4G,Yes,No,Yes,2 Years,AMOLED,Micro-USB,Yes,Glass,201,9.4,Very High
+OPP-640,Oppo,Android 11,5.94,4800,8,32,100,15,Apple Bionic,144,4G,Yes,No,Yes,1 Year,OLED,Micro-USB,Yes,Metal,240,6.6,Very High
+XIA-831,Xiaomi,Android 11,6.66,3000,6,32,76,40,Apple Bionic,90,4G,No,No,No,2 Years,AMOLED,Micro-USB,No,Plastic,191,7.3,Very High
+HUA-891,Huawei,Android 11,6.17,3600,3,32,36,10,Apple Bionic,90,4G,No,Yes,No,2 Years,LCD,Micro-USB,No,Metal,205,7.2,Medium
+VIV-513,Vivo,Android 11,5.96,5000,6,64,8,35,Exynos,120,4G,Yes,Yes,Yes,No Warranty,AMOLED,Lightning,No,Metal,152,9.4,Medium
+XIA-136,Xiaomi,iOS 15,5.66,6000,4,512,40,10,Snapdragon,60,5G,Yes,Yes,No,1 Year,LCD,Micro-USB,Yes,Plastic,198,8.5,Medium
+INF-582,Infinix,iOS 14,5.46,4500,6,256,88,25,Exynos,60,5G,No,No,No,No Warranty,IPS,Lightning,Yes,Plastic,206,8.5,Very High
+OPP-131,Oppo,Android 12,6.26,4100,6,256,20,5,Apple Bionic,120,4G,No,No,No,2 Years,AMOLED,Lightning,Yes,Metal,192,7.5,High
+REA-867,Realme,Android 11,6.42,4700,2,256,28,5,Exynos,90,4G,Yes,No,No,No Warranty,LCD,Micro-USB,No,Plastic,145,8.9,High
+INF-765,Infinix,iOS 14,6.99,4700,3,512,56,15,MediaTek,144,4G,No,No,Yes,1 Year,LCD,Micro-USB,Yes,Glass,162,7.4,Very High
+VIV-448,Vivo,Android 11,5.98,5500,3,512,28,15,Exynos,144,4G,Yes,No,Yes,No Warranty,AMOLED,Micro-USB,No,Plastic,154,7.4,High
+XIA-240,Xiaomi,iOS 14,5.92,5200,2,64,92,35,Apple Bionic,90,4G,No,No,No,No Warranty,AMOLED,Lightning,Yes,Glass,136,7.6,Low
+REA-454,Realme,iOS 14,5.97,4600,8,128,56,25,MediaTek,144,4G,No,Yes,No,1 Year,IPS,Type-C,Yes,Metal,205,8.1,Low
+TEC-308,Tecno,iOS 15,5.75,5600,6,512,40,30,Kirin,90,4G,Yes,No,No,1 Year,AMOLED,Type-C,No,Glass,161,6.5,Low
+SAM-914,Samsung,iOS 14,6.57,3200,6,32,32,40,Kirin,144,5G,Yes,No,No,1 Year,AMOLED,Type-C,No,Plastic,163,8.6,High
+APP-618,Apple,Android 11,5.04,3700,8,512,60,30,Kirin,144,4G,No,No,No,2 Years,OLED,Micro-USB,No,Plastic,174,9.2,Medium
+HUA-951,Huawei,iOS 15,6.33,4800,6,64,100,30,Exynos,60,5G,Yes,No,Yes,1 Year,IPS,Lightning,No,Metal,120,6.5,Very High
+HUA-734,Huawei,iOS 14,6.47,3300,8,128,104,15,Snapdragon,60,4G,Yes,Yes,No,No Warranty,IPS,Micro-USB,Yes,Plastic,215,8.9,Low
+HUA-979,Huawei,iOS 15,6.48,5600,4,256,12,5,Kirin,120,4G,Yes,Yes,No,2 Years,AMOLED,Micro-USB,No,Metal,141,7.7,Medium
+REA-364,Realme,iOS 15,6.63,5000,8,64,48,30,Snapdragon,60,5G,Yes,No,No,2 Years,LCD,Lightning,Yes,Metal,184,8.6,Medium
+SAM-904,Samsung,Android 11,6.98,3200,12,64,56,5,Apple Bionic,144,5G,No,Yes,No,2 Years,AMOLED,Lightning,Yes,Metal,137,9.2,Very High
+VIV-914,Vivo,iOS 14,5.66,3400,6,32,36,25,Exynos,144,5G,No,No,Yes,2 Years,IPS,Micro-USB,No,Plastic,159,9.1,Medium
+TEC-673,Tecno,iOS 15,6.18,4300,3,256,16,25,Snapdragon,120,4G,Yes,No,No,No Warranty,LCD,Micro-USB,Yes,Plastic,206,8.8,Low
+REA-458,Realme,iOS 15,6.92,5300,4,128,28,40,Exynos,144,5G,No,Yes,Yes,2 Years,IPS,Lightning,No,Plastic,180,7.9,Medium
+REA-518,Realme,Android 11,5.41,3700,6,32,36,25,Exynos,120,4G,Yes,No,No,1 Year,OLED,Type-C,No,Plastic,137,7.3,Low
+TEC-228,Tecno,Android 12,6.75,5700,12,32,80,35,Kirin,60,5G,No,No,No,2 Years,OLED,Type-C,No,Glass,191,8.8,High
+VIV-546,Vivo,iOS 15,6.14,4000,6,512,64,5,Apple Bionic,144,5G,No,No,No,2 Years,LCD,Lightning,No,Metal,134,9.2,Low
+SAM-761,Samsung,Android 12,6.23,5800,12,128,76,15,Apple Bionic,120,5G,No,Yes,No,2 Years,OLED,Type-C,No,Glass,172,7.9,Very High
+TEC-630,Tecno,iOS 14,6.34,5700,6,512,56,20,Snapdragon,90,5G,No,Yes,Yes,2 Years,LCD,Micro-USB,No,Metal,155,8.1,High
+INF-860,Infinix,iOS 14,6.9,3300,8,64,60,5,Apple Bionic,144,4G,Yes,Yes,No,1 Year,AMOLED,Lightning,No,Plastic,238,9.0,Low
+APP-914,Apple,iOS 15,5.52,3200,12,128,76,25,Kirin,120,4G,No,No,No,No Warranty,IPS,Lightning,Yes,Plastic,150,6.6,Medium
+INF-586,Infinix,iOS 14,5.78,5800,8,64,52,25,MediaTek,120,5G,Yes,Yes,No,2 Years,OLED,Type-C,No,Plastic,177,8.8,Low
+HUA-783,Huawei,iOS 15,6.23,5400,2,256,72,10,Apple Bionic,144,4G,Yes,Yes,No,No Warranty,LCD,Micro-USB,No,Plastic,178,8.4,Low
+XIA-360,Xiaomi,Android 10,5.65,5400,6,64,36,30,Exynos,120,5G,No,Yes,No,2 Years,OLED,Micro-USB,Yes,Glass,149,7.9,Low
+OPP-399,Oppo,Android 10,6.54,5300,6,256,48,35,Kirin,60,4G,No,Yes,Yes,1 Year,IPS,Lightning,Yes,Glass,125,8.8,Very High
+VIV-711,Vivo,iOS 14,5.29,4400,4,64,88,15,MediaTek,120,5G,Yes,Yes,Yes,2 Years,OLED,Lightning,No,Plastic,128,6.9,Very High
+OPP-398,Oppo,Android 10,6.3,5000,12,256,64,35,Snapdragon,90,5G,Yes,No,Yes,1 Year,LCD,Micro-USB,Yes,Plastic,192,7.9,High
+REA-238,Realme,Android 12,6.07,3700,6,64,84,20,Exynos,120,4G,No,No,Yes,No Warranty,LCD,Type-C,Yes,Metal,125,9.4,Very High
+TEC-355,Tecno,Android 12,5.99,3300,3,64,84,5,Apple Bionic,120,4G,Yes,No,Yes,No Warranty,OLED,Lightning,Yes,Glass,235,6.8,High
+INF-327,Infinix,Android 12,5.99,4300,6,64,56,10,Exynos,60,5G,Yes,No,Yes,No Warranty,AMOLED,Type-C,No,Glass,124,8.0,Low
+XIA-500,Xiaomi,Android 12,6.63,4000,6,128,104,10,Snapdragon,144,4G,No,No,No,No Warranty,LCD,Type-C,No,Metal,122,8.3,Medium
+OPP-356,Oppo,Android 11,5.87,4900,12,128,52,15,Snapdragon,60,4G,Yes,Yes,Yes,No Warranty,IPS,Lightning,Yes,Metal,154,8.5,Medium
+SAM-953,Samsung,Android 12,5.25,3900,4,256,84,25,Exynos,90,5G,No,Yes,No,1 Year,AMOLED,Type-C,Yes,Plastic,221,6.5,Medium
+TEC-834,Tecno,Android 10,5.57,4800,4,64,76,30,Snapdragon,144,5G,No,No,No,2 Years,LCD,Type-C,Yes,Plastic,220,6.6,High
+TEC-940,Tecno,iOS 14,6.49,5600,8,32,52,15,MediaTek,60,4G,Yes,No,Yes,2 Years,AMOLED,Lightning,Yes,Plastic,233,7.4,Medium
+OPP-527,Oppo,iOS 15,5.63,4800,8,512,88,20,Snapdragon,120,5G,Yes,Yes,No,2 Years,LCD,Lightning,Yes,Metal,127,9.2,High
+REA-540,Realme,Android 11,5.6,3700,8,32,96,5,Snapdragon,90,5G,No,Yes,Yes,No Warranty,OLED,Type-C,Yes,Glass,207,6.9,Low
+VIV-972,Vivo,iOS 15,6.54,4100,4,64,104,15,Apple Bionic,144,4G,Yes,No,No,No Warranty,OLED,Lightning,No,Plastic,235,8.2,High
+APP-814,Apple,iOS 14,5.35,5300,4,64,40,5,MediaTek,60,4G,Yes,Yes,Yes,No Warranty,LCD,Type-C,Yes,Metal,130,9.0,Very High
+SAM-665,Samsung,iOS 14,6.58,5900,6,64,88,40,Apple Bionic,144,5G,No,No,No,No Warranty,OLED,Type-C,Yes,Glass,124,7.5,High
+XIA-400,Xiaomi,Android 12,6.4,5500,3,32,84,20,MediaTek,60,5G,No,No,No,2 Years,AMOLED,Lightning,Yes,Metal,123,7.3,High
+XIA-321,Xiaomi,iOS 14,5.19,3300,3,128,76,35,Exynos,60,5G,Yes,Yes,Yes,No Warranty,OLED,Type-C,No,Metal,158,6.8,Medium
+REA-319,Realme,Android 11,6.13,4700,2,64,28,20,Snapdragon,60,4G,No,Yes,Yes,2 Years,IPS,Lightning,Yes,Metal,221,7.7,Low
+XIA-378,Xiaomi,iOS 15,5.65,3300,3,512,72,35,MediaTek,144,5G,Yes,No,No,1 Year,IPS,Lightning,Yes,Glass,156,6.8,Low
+SAM-846,Samsung,Android 11,6.95,5100,4,64,12,35,Kirin,90,5G,Yes,No,Yes,1 Year,LCD,Micro-USB,Yes,Metal,131,7.8,Medium
+VIV-909,Vivo,iOS 14,6.43,5400,2,32,76,10,MediaTek,60,5G,No,No,Yes,2 Years,AMOLED,Micro-USB,No,Plastic,123,7.5,Very High
+XIA-385,Xiaomi,Android 11,6.16,4600,2,64,100,40,Snapdragon,90,4G,No,No,Yes,1 Year,AMOLED,Micro-USB,Yes,Plastic,125,8.8,Very High
+SAM-685,Samsung,Android 10,5.25,4000,8,32,60,25,Snapdragon,144,4G,No,No,No,2 Years,AMOLED,Type-C,Yes,Glass,172,9.4,Very High
+SAM-665,Samsung,Android 11,5.2,5200,8,32,36,10,Exynos,60,4G,Yes,Yes,Yes,2 Years,LCD,Lightning,No,Plastic,197,6.5,Very High
+SAM-913,Samsung,iOS 14,6.49,4800,6,256,64,30,Apple Bionic,90,5G,No,Yes,Yes,1 Year,IPS,Type-C,No,Glass,147,9.2,Medium
+SAM-877,Samsung,iOS 15,5.15,3100,6,512,92,25,Kirin,90,4G,No,No,No,No Warranty,LCD,Micro-USB,No,Plastic,235,7.6,Low
+VIV-775,Vivo,iOS 15,5.92,4900,8,512,32,10,Kirin,60,4G,No,Yes,No,No Warranty,OLED,Type-C,No,Plastic,141,8.7,Low
+SAM-655,Samsung,Android 11,5.05,3700,12,64,92,15,Snapdragon,120,4G,No,No,No,1 Year,IPS,Micro-USB,Yes,Glass,168,8.4,Low
+TEC-494,Tecno,Android 10,6.37,4600,8,128,72,25,Apple Bionic,120,4G,Yes,No,Yes,1 Year,AMOLED,Micro-USB,Yes,Plastic,163,7.0,Very High
+HUA-555,Huawei,Android 12,5.17,5600,6,512,40,10,Apple Bionic,120,4G,No,No,No,1 Year,OLED,Micro-USB,No,Plastic,179,8.1,Very High
+SAM-881,Samsung,Android 10,5.55,3700,2,256,88,40,Snapdragon,144,4G,Yes,No,Yes,2 Years,AMOLED,Lightning,No,Metal,221,9.4,High
+TEC-837,Tecno,iOS 15,6.28,4200,12,512,32,30,Snapdragon,120,5G,No,Yes,No,2 Years,AMOLED,Lightning,Yes,Glass,151,8.4,High
+XIA-923,Xiaomi,iOS 14,5.77,4700,8,64,88,20,Snapdragon,90,4G,No,No,No,2 Years,IPS,Type-C,Yes,Glass,142,7.0,Very High
+XIA-419,Xiaomi,Android 11,6.58,5800,12,128,100,30,Kirin,144,4G,No,No,Yes,2 Years,IPS,Lightning,No,Plastic,228,8.5,High
+HUA-575,Huawei,Android 12,6.32,3500,4,128,8,30,Kirin,120,5G,No,Yes,Yes,1 Year,OLED,Lightning,No,Plastic,181,9.3,Low
+REA-727,Realme,Android 10,6.83,6000,4,64,12,35,Exynos,120,5G,Yes,Yes,Yes,1 Year,AMOLED,Type-C,Yes,Glass,162,7.8,High
+XIA-160,Xiaomi,iOS 14,6.26,3200,3,32,32,35,Kirin,90,5G,Yes,No,Yes,No Warranty,LCD,Micro-USB,Yes,Metal,120,8.0,Low
+APP-421,Apple,Android 11,6.91,3900,8,128,24,40,Apple Bionic,120,5G,Yes,Yes,Yes,No Warranty,LCD,Micro-USB,No,Plastic,165,7.2,Medium
+VIV-688,Vivo,Android 10,5.19,3600,2,128,12,40,Exynos,60,4G,Yes,No,No,No Warranty,AMOLED,Lightning,Yes,Glass,178,8.1,Low
+INF-462,Infinix,Android 12,5.26,3600,6,512,104,15,Snapdragon,120,5G,Yes,No,Yes,2 Years,AMOLED,Lightning,No,Glass,190,7.2,Low
+TEC-577,Tecno,Android 11,6.43,3600,2,64,92,15,Snapdragon,144,4G,No,Yes,Yes,2 Years,IPS,Type-C,Yes,Plastic,213,7.6,High
+REA-808,Realme,Android 10,5.62,5000,3,64,20,40,Exynos,120,5G,Yes,No,Yes,No Warranty,OLED,Micro-USB,No,Metal,212,7.5,Very High
+SAM-779,Samsung,iOS 15,6.08,5500,2,256,96,5,Snapdragon,60,4G,No,No,Yes,2 Years,AMOLED,Lightning,No,Metal,163,7.4,Very High
+VIV-314,Vivo,Android 11,6.42,4200,4,512,92,35,Kirin,120,4G,Yes,Yes,No,1 Year,LCD,Type-C,Yes,Metal,138,6.8,Medium
+XIA-340,Xiaomi,Android 12,5.54,5800,12,32,20,15,Snapdragon,90,5G,No,Yes,No,2 Years,LCD,Micro-USB,No,Plastic,231,7.9,Medium
+SAM-574,Samsung,Android 10,6.37,4400,3,64,92,30,MediaTek,60,5G,Yes,Yes,Yes,2 Years,AMOLED,Lightning,No,Plastic,120,6.9,High
+TEC-854,Tecno,iOS 15,6.62,5100,6,128,104,15,Exynos,90,5G,Yes,No,No,1 Year,LCD,Lightning,No,Glass,220,8.6,Very High
+APP-194,Apple,iOS 15,6.13,5500,2,64,20,10,Exynos,60,5G,No,Yes,No,2 Years,LCD,Lightning,No,Glass,168,7.9,High
+SAM-875,Samsung,iOS 14,5.22,3500,8,64,24,40,Snapdragon,144,4G,No,No,Yes,No Warranty,OLED,Lightning,No,Metal,225,8.0,Low
+SAM-149,Samsung,Android 10,5.59,3300,3,256,96,25,MediaTek,60,5G,No,Yes,No,2 Years,AMOLED,Micro-USB,No,Plastic,160,9.2,Medium
+XIA-511,Xiaomi,Android 12,7.0,4400,3,32,20,5,Snapdragon,90,4G,No,No,Yes,1 Year,LCD,Type-C,Yes,Plastic,152,7.8,Medium
+VIV-626,Vivo,Android 10,5.08,4800,12,512,32,10,Snapdragon,120,4G,Yes,No,Yes,No Warranty,OLED,Type-C,Yes,Metal,212,9.1,Low
+OPP-690,Oppo,iOS 15,5.49,5500,4,32,12,5,Exynos,144,4G,No,Yes,Yes,2 Years,OLED,Lightning,No,Metal,172,6.7,Very High
+APP-147,Apple,Android 10,6.09,3800,3,128,20,15,Apple Bionic,60,5G,No,No,Yes,No Warranty,IPS,Lightning,Yes,Plastic,182,7.3,Low
+TEC-678,Tecno,Android 11,6.03,3600,4,32,20,25,Apple Bionic,144,4G,Yes,No,Yes,No Warranty,OLED,Type-C,No,Glass,157,7.4,High
+APP-664,Apple,Android 11,6.36,4900,12,64,20,40,Kirin,60,5G,Yes,Yes,No,2 Years,AMOLED,Lightning,Yes,Metal,129,7.6,Low
+INF-485,Infinix,Android 10,6.21,3000,4,128,76,35,Exynos,60,4G,No,No,No,2 Years,LCD,Lightning,Yes,Plastic,124,7.4,Medium
+XIA-702,Xiaomi,iOS 14,6.49,5900,6,256,16,20,Kirin,144,5G,No,No,No,No Warranty,LCD,Lightning,No,Plastic,208,9.1,High
+INF-894,Infinix,Android 12,5.25,3600,3,512,48,25,Apple Bionic,60,4G,Yes,No,Yes,No Warranty,AMOLED,Lightning,Yes,Metal,162,8.4,High
+TEC-514,Tecno,iOS 15,5.1,4800,8,32,72,25,Kirin,60,4G,No,No,Yes,2 Years,LCD,Lightning,Yes,Plastic,192,6.7,Low
+VIV-646,Vivo,iOS 14,6.58,3300,2,256,32,10,MediaTek,90,5G,Yes,No,No,2 Years,LCD,Micro-USB,No,Glass,196,8.4,Low
+XIA-169,Xiaomi,Android 12,6.39,5400,2,256,72,10,Exynos,144,5G,No,Yes,Yes,1 Year,OLED,Type-C,No,Glass,180,8.9,Very High
+APP-647,Apple,Android 10,6.42,5400,12,256,44,40,Exynos,60,5G,Yes,No,No,2 Years,IPS,Micro-USB,Yes,Metal,125,7.3,Medium
+VIV-851,Vivo,Android 12,5.57,3600,2,128,92,15,Kirin,120,5G,No,Yes,No,No Warranty,IPS,Lightning,Yes,Plastic,204,9.1,Very High
+TEC-286,Tecno,iOS 15,6.84,5600,3,256,12,35,Exynos,60,4G,No,Yes,Yes,No Warranty,OLED,Type-C,No,Plastic,141,7.1,Very High
+APP-941,Apple,iOS 14,6.59,3200,8,64,104,10,Snapdragon,90,5G,No,No,Yes,2 Years,AMOLED,Lightning,Yes,Plastic,192,7.2,Very High
+SAM-325,Samsung,Android 10,5.17,3700,3,128,40,15,MediaTek,144,4G,No,Yes,Yes,No Warranty,IPS,Micro-USB,No,Glass,150,9.4,Very High
+INF-563,Infinix,Android 11,6.77,3300,2,256,92,40,Exynos,90,5G,No,No,No,No Warranty,OLED,Micro-USB,No,Metal,162,9.5,High
+XIA-400,Xiaomi,iOS 14,6.78,4500,12,64,44,5,MediaTek,60,4G,Yes,No,No,No Warranty,OLED,Lightning,Yes,Plastic,169,8.6,Medium
+VIV-509,Vivo,iOS 15,6.86,4300,3,512,44,40,Snapdragon,144,4G,Yes,Yes,No,1 Year,LCD,Lightning,Yes,Plastic,232,8.9,Medium
+TEC-101,Tecno,Android 12,5.65,3900,4,512,48,30,Apple Bionic,144,4G,No,No,Yes,2 Years,OLED,Lightning,Yes,Plastic,202,7.9,Medium
+APP-189,Apple,Android 11,6.79,3400,4,128,60,5,Exynos,144,5G,No,Yes,Yes,No Warranty,AMOLED,Lightning,Yes,Metal,216,8.1,Low
+OPP-884,Oppo,iOS 15,5.33,4400,2,128,40,20,Apple Bionic,60,5G,No,Yes,Yes,No Warranty,LCD,Lightning,Yes,Metal,134,8.8,Low
+VIV-246,Vivo,Android 10,5.09,5700,2,32,8,25,Snapdragon,90,5G,No,No,No,2 Years,IPS,Micro-USB,Yes,Metal,218,9.4,High
+XIA-114,Xiaomi,Android 11,5.98,3800,2,256,104,25,Snapdragon,90,4G,No,No,No,No Warranty,LCD,Micro-USB,No,Metal,120,9.1,Low
+VIV-309,Vivo,Android 11,7.0,5100,2,256,40,25,Kirin,144,4G,No,No,No,2 Years,LCD,Lightning,Yes,Plastic,195,8.1,High
+SAM-550,Samsung,Android 10,6.26,4000,3,32,76,15,Exynos,90,5G,No,Yes,Yes,1 Year,AMOLED,Micro-USB,Yes,Glass,155,6.9,Medium
+REA-176,Realme,Android 12,5.08,3700,12,512,100,5,Snapdragon,60,4G,Yes,No,No,2 Years,AMOLED,Type-C,Yes,Plastic,212,6.9,Medium
+SAM-218,Samsung,iOS 15,6.92,4900,4,128,104,30,Apple Bionic,90,5G,Yes,Yes,Yes,No Warranty,IPS,Lightning,Yes,Metal,135,9.4,High
+REA-718,Realme,iOS 15,6.0,3700,6,64,92,25,Kirin,144,4G,Yes,No,No,2 Years,LCD,Micro-USB,No,Metal,210,6.7,Low
+SAM-722,Samsung,iOS 14,5.26,4300,8,64,56,35,MediaTek,90,4G,Yes,No,Yes,1 Year,AMOLED,Type-C,No,Plastic,150,6.8,High
+TEC-342,Tecno,Android 12,6.73,5200,6,256,16,30,Kirin,60,5G,No,Yes,No,2 Years,AMOLED,Type-C,No,Glass,220,7.8,Medium
+SAM-761,Samsung,Android 12,6.81,4900,12,256,20,10,Snapdragon,60,5G,Yes,Yes,Yes,No Warranty,IPS,Type-C,Yes,Glass,168,8.7,High
+APP-639,Apple,Android 10,5.17,4200,12,128,100,25,Exynos,120,4G,Yes,No,Yes,2 Years,IPS,Type-C,No,Plastic,171,9.2,Very High
+VIV-751,Vivo,Android 11,5.97,3200,3,64,12,30,Exynos,144,5G,No,No,Yes,No Warranty,AMOLED,Micro-USB,No,Plastic,194,7.7,Medium
+REA-447,Realme,Android 12,5.44,3400,2,256,104,15,Snapdragon,144,5G,No,No,Yes,1 Year,OLED,Micro-USB,Yes,Plastic,182,8.9,Very High
+VIV-241,Vivo,Android 10,5.79,3000,8,64,88,5,Apple Bionic,60,5G,No,No,Yes,2 Years,LCD,Lightning,Yes,Glass,179,7.8,Very High
+XIA-765,Xiaomi,Android 10,6.77,5500,6,128,44,30,Apple Bionic,90,4G,Yes,Yes,No,1 Year,LCD,Type-C,Yes,Plastic,191,8.2,High
+APP-174,Apple,iOS 14,6.18,3700,6,512,32,25,Exynos,144,4G,No,Yes,No,No Warranty,LCD,Lightning,No,Metal,204,8.5,High
+INF-383,Infinix,Android 10,6.01,3700,12,256,108,20,Snapdragon,144,4G,No,No,No,1 Year,IPS,Lightning,No,Plastic,142,7.3,Medium
+REA-133,Realme,Android 10,6.92,3400,4,64,76,10,MediaTek,144,4G,No,Yes,Yes,No Warranty,IPS,Micro-USB,Yes,Plastic,191,7.2,Very High
+TEC-139,Tecno,Android 10,6.6,4100,6,256,100,40,MediaTek,144,5G,Yes,Yes,Yes,No Warranty,AMOLED,Type-C,Yes,Metal,190,6.9,High
+XIA-781,Xiaomi,iOS 15,5.41,3700,4,128,84,25,Snapdragon,144,4G,Yes,Yes,Yes,1 Year,OLED,Micro-USB,Yes,Plastic,219,7.6,High
+REA-787,Realme,Android 12,6.82,3800,4,256,16,40,Snapdragon,60,4G,Yes,Yes,Yes,No Warranty,AMOLED,Lightning,Yes,Glass,178,8.5,Low
+REA-806,Realme,iOS 15,6.83,5500,12,64,36,25,Exynos,144,5G,Yes,Yes,No,No Warranty,AMOLED,Micro-USB,Yes,Glass,226,6.7,Very High
+TEC-363,Tecno,Android 10,6.11,5200,4,512,100,40,Snapdragon,144,5G,No,Yes,Yes,1 Year,LCD,Lightning,No,Plastic,136,6.6,Medium
+INF-276,Infinix,iOS 15,6.51,3500,12,512,52,25,Apple Bionic,120,4G,No,Yes,No,1 Year,OLED,Type-C,Yes,Metal,205,6.5,Very High
+INF-494,Infinix,Android 11,5.99,5700,3,512,96,5,Snapdragon,120,4G,Yes,Yes,Yes,No Warranty,IPS,Type-C,No,Metal,240,8.9,Low
+OPP-291,Oppo,iOS 15,5.22,4000,8,256,48,5,Exynos,60,4G,Yes,No,No,2 Years,IPS,Lightning,No,Glass,178,7.5,Low
+VIV-175,Vivo,iOS 14,6.81,5000,6,256,36,10,MediaTek,144,5G,Yes,No,Yes,2 Years,LCD,Type-C,Yes,Glass,185,8.2,Low
+TEC-340,Tecno,iOS 15,5.63,4200,8,512,60,25,Apple Bionic,120,4G,No,No,No,1 Year,AMOLED,Type-C,No,Plastic,183,6.7,Medium
+HUA-553,Huawei,iOS 15,5.85,4100,12,64,12,20,Apple Bionic,90,5G,Yes,No,No,1 Year,LCD,Lightning,Yes,Glass,200,7.5,Very High
+OPP-789,Oppo,Android 12,6.87,5500,12,512,72,35,MediaTek,90,5G,Yes,Yes,No,2 Years,AMOLED,Micro-USB,No,Glass,158,8.8,Low
+VIV-237,Vivo,Android 12,5.04,3500,8,128,56,30,Snapdragon,60,4G,Yes,Yes,Yes,1 Year,IPS,Type-C,Yes,Glass,121,6.6,Very High
+XIA-684,Xiaomi,Android 11,5.13,5400,8,64,104,15,Apple Bionic,144,5G,No,Yes,Yes,No Warranty,LCD,Type-C,No,Metal,219,7.6,Low
+XIA-299,Xiaomi,iOS 15,5.93,5700,6,512,68,40,Apple Bionic,90,4G,Yes,Yes,No,No Warranty,OLED,Micro-USB,No,Metal,187,7.3,Low
+OPP-525,Oppo,Android 12,6.62,3100,6,128,76,10,MediaTek,144,4G,Yes,No,No,No Warranty,AMOLED,Type-C,No,Metal,143,8.2,Very High
+SAM-153,Samsung,iOS 15,6.53,3200,12,256,64,20,Snapdragon,144,5G,Yes,No,Yes,No Warranty,IPS,Lightning,Yes,Metal,186,8.0,Low
+HUA-893,Huawei,iOS 14,5.59,4300,3,256,104,25,Kirin,90,5G,Yes,No,No,1 Year,OLED,Type-C,No,Glass,160,6.7,High
+VIV-767,Vivo,Android 10,6.71,4800,3,128,36,5,Kirin,144,4G,Yes,Yes,Yes,1 Year,LCD,Micro-USB,Yes,Metal,163,9.0,Low
+HUA-711,Huawei,iOS 14,6.56,4500,3,512,36,15,Exynos,90,4G,Yes,Yes,Yes,No Warranty,AMOLED,Micro-USB,Yes,Metal,240,8.2,High
+VIV-917,Vivo,Android 11,6.93,5700,3,512,44,10,MediaTek,144,4G,No,No,Yes,2 Years,LCD,Type-C,Yes,Plastic,190,7.8,Very High
+XIA-545,Xiaomi,Android 10,6.42,3200,6,32,48,5,Snapdragon,60,5G,Yes,Yes,No,No Warranty,IPS,Lightning,No,Glass,137,7.1,High
+HUA-597,Huawei,iOS 15,5.82,4300,8,128,12,20,Kirin,144,4G,No,No,No,2 Years,LCD,Micro-USB,Yes,Metal,207,7.6,High
+VIV-426,Vivo,Android 10,5.03,3500,3,64,44,35,Exynos,90,4G,No,Yes,Yes,2 Years,OLED,Micro-USB,Yes,Glass,196,7.0,Low
+XIA-247,Xiaomi,Android 10,5.44,3000,3,32,72,40,Snapdragon,120,4G,No,No,No,2 Years,AMOLED,Micro-USB,Yes,Glass,144,7.8,Very High
+TEC-811,Tecno,Android 10,6.81,4100,12,256,72,25,Exynos,144,4G,No,Yes,No,1 Year,LCD,Micro-USB,No,Plastic,172,8.6,Low
+SAM-212,Samsung,iOS 14,5.14,5700,3,64,12,5,Snapdragon,120,4G,Yes,Yes,No,No Warranty,AMOLED,Micro-USB,No,Metal,185,6.7,Low
+TEC-658,Tecno,Android 10,5.71,3500,3,64,16,5,Exynos,60,4G,Yes,No,No,2 Years,OLED,Type-C,No,Glass,141,6.8,Low
+SAM-228,Samsung,Android 12,6.75,4000,3,256,100,30,Apple Bionic,144,4G,No,Yes,No,No Warranty,AMOLED,Lightning,No,Metal,226,6.5,Low
+VIV-937,Vivo,Android 10,5.75,3200,3,256,104,25,Exynos,90,5G,Yes,Yes,No,No Warranty,LCD,Type-C,Yes,Metal,166,8.5,Medium
+TEC-964,Tecno,iOS 15,6.21,4900,8,512,52,40,Exynos,144,4G,No,No,Yes,1 Year,IPS,Lightning,No,Glass,219,9.4,Very High
+INF-354,Infinix,Android 11,6.61,3600,6,64,64,10,Exynos,90,4G,No,No,No,No Warranty,LCD,Lightning,No,Glass,173,7.0,Very High
+HUA-561,Huawei,Android 10,6.95,5500,12,128,68,20,Apple Bionic,90,4G,Yes,No,No,No Warranty,AMOLED,Type-C,No,Plastic,209,8.7,Very High
+INF-381,Infinix,Android 12,6.57,4400,2,256,44,25,Snapdragon,60,4G,No,No,No,No Warranty,OLED,Lightning,No,Glass,227,7.4,Medium
+REA-694,Realme,Android 11,6.75,3700,6,512,8,35,Kirin,60,5G,No,No,Yes,No Warranty,AMOLED,Type-C,Yes,Plastic,138,7.0,Very High
+REA-380,Realme,iOS 15,6.06,5300,4,512,68,10,MediaTek,90,4G,No,Yes,No,No Warranty,AMOLED,Type-C,No,Metal,205,9.2,Very High
+TEC-919,Tecno,iOS 15,6.61,4900,3,256,12,10,Exynos,120,5G,Yes,Yes,No,2 Years,AMOLED,Micro-USB,No,Glass,137,7.0,Very High
+SAM-140,Samsung,Android 11,5.33,5500,6,64,108,35,Snapdragon,120,5G,Yes,Yes,Yes,2 Years,AMOLED,Micro-USB,No,Plastic,196,8.4,High
+HUA-373,Huawei,Android 11,6.43,3600,12,32,80,25,Apple Bionic,120,5G,No,Yes,No,2 Years,AMOLED,Type-C,No,Metal,228,6.7,Very High
+OPP-351,Oppo,Android 10,5.36,5300,12,256,20,35,MediaTek,90,4G,No,Yes,No,2 Years,OLED,Lightning,No,Plastic,132,7.1,Very High
+XIA-803,Xiaomi,Android 10,6.46,5400,4,64,108,15,Exynos,90,4G,Yes,Yes,No,2 Years,IPS,Micro-USB,No,Metal,138,7.5,Low
+APP-931,Apple,Android 11,5.51,5900,8,128,76,25,Snapdragon,144,5G,Yes,No,Yes,2 Years,AMOLED,Type-C,No,Plastic,207,7.2,High
+TEC-379,Tecno,Android 10,6.3,3300,6,256,36,35,Apple Bionic,144,5G,Yes,No,Yes,No Warranty,LCD,Lightning,Yes,Plastic,161,7.2,Very High
+SAM-713,Samsung,iOS 15,5.89,4800,8,64,88,40,MediaTek,90,5G,Yes,No,No,No Warranty,AMOLED,Type-C,No,Glass,124,6.9,Medium
+OPP-604,Oppo,Android 12,5.53,4300,3,512,92,40,Exynos,60,5G,No,No,Yes,2 Years,AMOLED,Lightning,Yes,Plastic,227,8.0,Medium
+TEC-419,Tecno,Android 11,6.65,3500,4,64,40,40,Kirin,90,4G,No,No,No,2 Years,IPS,Micro-USB,Yes,Metal,167,8.9,Low
+XIA-537,Xiaomi,Android 10,6.79,5400,3,256,24,15,Exynos,120,4G,No,Yes,Yes,No Warranty,IPS,Lightning,Yes,Plastic,201,8.8,Very High
+APP-254,Apple,iOS 14,6.78,5800,6,128,32,15,Exynos,120,5G,No,No,Yes,2 Years,OLED,Micro-USB,No,Glass,220,8.8,Very High
+SAM-498,Samsung,iOS 14,6.14,5000,8,256,60,10,Snapdragon,90,5G,No,Yes,No,1 Year,AMOLED,Type-C,Yes,Glass,235,8.8,Very High
+HUA-254,Huawei,iOS 15,6.03,3300,12,32,36,25,Kirin,144,4G,No,No,Yes,2 Years,AMOLED,Type-C,No,Glass,121,8.4,Very High
+SAM-401,Samsung,Android 12,5.7,5800,8,256,88,25,Kirin,90,5G,Yes,Yes,No,1 Year,OLED,Type-C,Yes,Plastic,174,7.1,Low
+TEC-673,Tecno,Android 12,5.9,3000,2,512,108,20,Apple Bionic,120,5G,No,No,No,2 Years,LCD,Type-C,Yes,Glass,229,6.5,Very High
+VIV-363,Vivo,Android 12,5.87,5500,6,256,80,5,MediaTek,144,5G,Yes,No,Yes,1 Year,OLED,Lightning,No,Metal,185,9.0,Low
+OPP-648,Oppo,Android 12,5.36,5800,2,512,40,5,Snapdragon,60,5G,No,Yes,No,No Warranty,IPS,Type-C,No,Glass,215,6.5,Low
+VIV-382,Vivo,Android 11,5.14,5000,4,512,8,10,Kirin,90,4G,No,Yes,No,2 Years,OLED,Type-C,Yes,Metal,226,9.1,Medium
+VIV-468,Vivo,iOS 14,6.98,3000,8,256,44,25,Exynos,90,4G,Yes,No,No,1 Year,LCD,Lightning,Yes,Metal,191,7.8,Low
+TEC-751,Tecno,iOS 15,6.03,3600,4,64,16,30,Exynos,60,5G,Yes,Yes,No,1 Year,AMOLED,Lightning,No,Glass,216,7.6,High
+INF-947,Infinix,iOS 15,6.89,4100,4,32,12,20,Kirin,60,5G,No,No,Yes,No Warranty,OLED,Type-C,No,Glass,138,8.5,Medium
+SAM-660,Samsung,Android 11,5.53,3800,2,256,8,5,Apple Bionic,144,5G,No,Yes,Yes,No Warranty,LCD,Lightning,No,Metal,130,9.2,Medium
+XIA-287,Xiaomi,Android 10,6.73,5300,3,256,80,35,MediaTek,90,5G,Yes,Yes,No,2 Years,LCD,Lightning,Yes,Plastic,167,8.8,Very High
+INF-853,Infinix,Android 10,5.35,3400,2,128,100,20,Snapdragon,120,4G,No,Yes,No,2 Years,IPS,Lightning,No,Plastic,120,8.4,Medium
+OPP-754,Oppo,Android 11,6.49,3700,3,512,20,20,Snapdragon,90,5G,No,No,Yes,1 Year,AMOLED,Lightning,Yes,Metal,177,9.0,High
+INF-673,Infinix,iOS 14,6.52,4000,2,64,76,10,Kirin,60,4G,Yes,No,No,1 Year,OLED,Lightning,No,Glass,174,8.5,High
+INF-415,Infinix,iOS 14,6.57,4800,4,32,12,20,Snapdragon,120,4G,Yes,No,Yes,No Warranty,AMOLED,Lightning,Yes,Glass,239,7.4,High
+REA-232,Realme,Android 10,6.71,4000,3,32,28,5,MediaTek,60,4G,Yes,No,No,2 Years,AMOLED,Lightning,No,Metal,138,8.7,Low
+VIV-197,Vivo,Android 10,6.06,3000,4,64,12,30,MediaTek,144,5G,Yes,Yes,No,No Warranty,IPS,Type-C,Yes,Plastic,189,8.1,Medium
+VIV-434,Vivo,iOS 15,5.78,5500,3,32,92,25,MediaTek,60,4G,No,No,No,No Warranty,IPS,Lightning,No,Glass,152,7.6,Medium
+APP-584,Apple,Android 10,5.2,3400,4,256,20,30,Apple Bionic,120,4G,No,No,Yes,No Warranty,IPS,Type-C,Yes,Metal,136,8.1,High
+HUA-825,Huawei,Android 12,6.2,3200,8,32,12,35,Kirin,60,5G,Yes,No,No,2 Years,OLED,Type-C,Yes,Plastic,170,9.4,Medium
+XIA-114,Xiaomi,iOS 14,5.86,3900,8,128,64,20,Exynos,90,4G,Yes,No,No,No Warranty,LCD,Type-C,No,Glass,166,6.9,High
+APP-387,Apple,Android 12,6.84,4400,4,256,48,40,Snapdragon,90,5G,Yes,Yes,Yes,2 Years,OLED,Micro-USB,Yes,Plastic,204,8.1,Low
+APP-112,Apple,iOS 15,5.27,3900,3,64,24,30,Exynos,60,4G,Yes,No,Yes,No Warranty,IPS,Lightning,Yes,Plastic,159,8.7,Very High
+TEC-142,Tecno,Android 11,5.38,5500,12,64,108,35,Exynos,90,5G,Yes,Yes,No,1 Year,IPS,Micro-USB,Yes,Glass,154,8.7,Medium
+APP-158,Apple,iOS 14,6.37,5800,12,256,84,20,Apple Bionic,60,5G,No,No,No,1 Year,LCD,Micro-USB,Yes,Metal,219,7.3,Medium
+INF-483,Infinix,iOS 14,5.1,5000,12,512,32,10,Apple Bionic,60,5G,Yes,Yes,Yes,No Warranty,OLED,Type-C,Yes,Plastic,197,6.9,High
+HUA-672,Huawei,iOS 14,5.76,4000,12,256,16,20,MediaTek,60,5G,No,No,Yes,2 Years,AMOLED,Type-C,Yes,Plastic,180,7.6,High
+APP-528,Apple,iOS 14,5.2,4800,12,512,24,15,Exynos,60,5G,No,No,Yes,1 Year,OLED,Lightning,Yes,Metal,159,8.1,High
+XIA-164,Xiaomi,Android 10,5.01,5100,8,512,64,30,Snapdragon,120,5G,No,No,Yes,2 Years,IPS,Type-C,No,Plastic,171,8.4,Medium
+XIA-702,Xiaomi,Android 12,6.5,3600,12,64,28,5,Snapdragon,60,5G,No,No,Yes,No Warranty,LCD,Type-C,Yes,Metal,140,9.0,Low
+HUA-697,Huawei,Android 12,6.89,4600,6,512,16,25,Kirin,144,5G,No,No,Yes,2 Years,LCD,Micro-USB,Yes,Plastic,227,8.2,Medium
+SAM-393,Samsung,Android 11,5.88,5400,12,32,24,30,Exynos,120,4G,Yes,No,Yes,2 Years,LCD,Micro-USB,Yes,Metal,149,6.5,Medium
+SAM-986,Samsung,iOS 14,6.75,5800,6,128,20,5,Snapdragon,144,5G,Yes,No,Yes,2 Years,IPS,Micro-USB,No,Plastic,142,8.0,Low
+XIA-470,Xiaomi,Android 11,6.46,5400,6,256,88,35,Kirin,60,5G,No,Yes,Yes,No Warranty,AMOLED,Lightning,Yes,Plastic,216,9.2,Very High
+VIV-706,Vivo,Android 10,6.44,4900,2,64,28,35,Kirin,90,4G,No,No,No,1 Year,IPS,Micro-USB,No,Plastic,176,7.4,High
+APP-214,Apple,Android 12,5.67,5600,12,512,28,40,Exynos,60,4G,Yes,Yes,No,2 Years,AMOLED,Lightning,No,Plastic,182,8.8,Low
+HUA-688,Huawei,Android 11,5.76,3400,4,512,60,30,Kirin,120,5G,Yes,No,Yes,No Warranty,IPS,Type-C,No,Plastic,160,7.1,Very High
+HUA-687,Huawei,iOS 14,5.12,4100,8,128,36,15,Apple Bionic,120,5G,Yes,Yes,No,No Warranty,AMOLED,Micro-USB,No,Plastic,240,7.6,Low
+REA-410,Realme,iOS 14,5.29,4300,2,256,72,10,Snapdragon,90,5G,Yes,No,Yes,No Warranty,LCD,Type-C,Yes,Metal,187,7.8,High
+SAM-367,Samsung,Android 11,6.46,3100,12,512,104,25,MediaTek,120,4G,Yes,Yes,No,1 Year,OLED,Type-C,No,Plastic,216,8.3,Low
+SAM-767,Samsung,iOS 15,6.8,4200,8,256,104,40,Apple Bionic,90,4G,Yes,Yes,No,No Warranty,AMOLED,Micro-USB,Yes,Plastic,135,7.7,High
+SAM-951,Samsung,iOS 14,6.32,3600,4,32,16,20,Kirin,120,4G,No,No,Yes,1 Year,AMOLED,Type-C,No,Glass,188,6.6,Low
+SAM-466,Samsung,Android 10,5.11,3100,12,512,84,35,Kirin,144,5G,Yes,Yes,Yes,No Warranty,OLED,Lightning,Yes,Glass,169,7.5,Very High
+XIA-177,Xiaomi,iOS 15,6.05,4700,3,512,92,25,Kirin,120,4G,No,Yes,No,1 Year,AMOLED,Lightning,No,Glass,223,7.8,Medium
+VIV-240,Vivo,iOS 15,5.62,6000,6,128,92,20,Exynos,120,5G,No,No,No,1 Year,OLED,Type-C,No,Plastic,141,7.4,High
+VIV-201,Vivo,Android 10,6.88,3300,6,512,84,35,Apple Bionic,90,5G,No,Yes,Yes,2 Years,AMOLED,Lightning,No,Plastic,236,7.8,Very High
+SAM-271,Samsung,iOS 14,5.23,5600,8,128,36,30,Snapdragon,120,4G,Yes,Yes,Yes,No Warranty,AMOLED,Lightning,No,Plastic,179,6.8,Medium
+XIA-465,Xiaomi,iOS 14,6.98,4900,2,128,60,5,Exynos,120,4G,No,No,Yes,No Warranty,IPS,Lightning,Yes,Metal,193,8.8,High
+APP-790,Apple,iOS 14,6.8,3100,6,256,44,30,Kirin,90,4G,No,Yes,No,2 Years,LCD,Micro-USB,Yes,Metal,149,7.6,Low
+VIV-301,Vivo,iOS 15,5.12,3200,6,512,84,25,MediaTek,120,4G,No,Yes,No,1 Year,LCD,Lightning,Yes,Glass,179,9.1,Low
+SAM-163,Samsung,Android 12,5.36,3500,8,128,84,25,Exynos,120,5G,Yes,Yes,Yes,1 Year,OLED,Lightning,No,Glass,161,7.3,High
+HUA-310,Huawei,Android 12,6.75,4600,12,256,44,15,MediaTek,60,5G,No,Yes,Yes,1 Year,LCD,Micro-USB,No,Glass,188,8.5,Low
+APP-256,Apple,Android 11,6.65,4000,12,512,36,5,Kirin,60,5G,No,No,No,No Warranty,IPS,Type-C,No,Glass,149,6.9,Medium
+REA-615,Realme,iOS 14,6.58,5200,8,128,96,35,MediaTek,90,5G,Yes,No,Yes,No Warranty,LCD,Lightning,No,Plastic,174,7.2,High
+TEC-434,Tecno,Android 11,5.7,5900,12,64,80,10,MediaTek,60,5G,Yes,No,Yes,No Warranty,IPS,Micro-USB,No,Glass,220,9.4,High
+SAM-345,Samsung,iOS 14,6.94,5200,4,256,8,30,Exynos,144,4G,Yes,Yes,No,1 Year,LCD,Type-C,Yes,Metal,183,9.3,Low
+OPP-972,Oppo,iOS 14,5.73,5800,12,256,80,10,Exynos,90,4G,No,No,Yes,2 Years,IPS,Micro-USB,No,Metal,174,7.0,Medium
+TEC-630,Tecno,Android 11,5.11,3100,3,512,48,40,Apple Bionic,90,4G,Yes,Yes,Yes,2 Years,LCD,Type-C,Yes,Metal,182,7.7,High
+HUA-590,Huawei,iOS 15,5.77,3400,2,32,104,35,Exynos,90,5G,No,No,Yes,1 Year,OLED,Micro-USB,Yes,Plastic,155,9.3,Very High
+XIA-371,Xiaomi,Android 11,5.62,4300,3,512,36,25,Snapdragon,144,5G,No,Yes,Yes,1 Year,AMOLED,Micro-USB,Yes,Glass,165,6.5,Medium
+REA-482,Realme,Android 11,6.47,5500,2,128,28,10,Exynos,144,5G,Yes,No,No,2 Years,AMOLED,Lightning,Yes,Metal,153,9.0,Medium
+XIA-216,Xiaomi,Android 11,6.82,4600,6,512,64,10,Kirin,120,5G,Yes,Yes,No,2 Years,IPS,Lightning,Yes,Glass,174,7.2,Very High
+TEC-853,Tecno,iOS 14,5.41,4900,2,256,100,20,MediaTek,90,5G,No,No,Yes,1 Year,OLED,Type-C,No,Glass,166,9.2,Very High
+REA-663,Realme,Android 12,5.64,3500,8,128,32,30,MediaTek,120,4G,No,No,No,1 Year,LCD,Micro-USB,Yes,Plastic,195,6.9,Low
+SAM-453,Samsung,iOS 14,6.46,5700,12,32,104,25,Exynos,144,4G,Yes,No,No,1 Year,LCD,Type-C,Yes,Glass,143,8.7,Very High
+VIV-556,Vivo,Android 11,5.11,5400,8,64,84,40,Snapdragon,144,4G,Yes,Yes,Yes,1 Year,AMOLED,Micro-USB,Yes,Glass,226,8.2,High
+OPP-282,Oppo,Android 11,6.75,3800,12,128,44,30,Kirin,120,4G,Yes,No,No,1 Year,IPS,Lightning,Yes,Glass,208,9.4,Medium
+INF-480,Infinix,iOS 15,6.92,4600,3,512,52,30,Kirin,60,4G,No,No,Yes,2 Years,AMOLED,Micro-USB,Yes,Plastic,151,8.4,Low
+REA-559,Realme,Android 10,6.03,4500,4,256,92,10,Kirin,144,4G,Yes,No,Yes,No Warranty,LCD,Micro-USB,No,Glass,121,6.7,Very High
+OPP-837,Oppo,Android 11,5.77,5500,12,64,84,20,MediaTek,90,4G,Yes,Yes,No,1 Year,LCD,Lightning,No,Metal,218,8.0,High
+INF-870,Infinix,Android 10,5.21,4600,3,128,56,15,MediaTek,120,4G,Yes,No,Yes,2 Years,IPS,Type-C,Yes,Metal,195,9.1,High
+APP-857,Apple,iOS 15,5.92,5700,2,64,36,30,Apple Bionic,144,4G,No,No,No,No Warranty,LCD,Micro-USB,No,Glass,218,8.2,Medium
+XIA-560,Xiaomi,iOS 14,6.41,5700,2,32,40,15,MediaTek,90,4G,No,Yes,No,2 Years,LCD,Type-C,No,Plastic,226,7.4,Medium
+VIV-644,Vivo,Android 12,6.87,4900,6,64,44,35,Apple Bionic,60,5G,No,No,No,No Warranty,AMOLED,Micro-USB,Yes,Plastic,172,7.5,Medium
+INF-713,Infinix,Android 12,6.82,4200,2,64,100,20,Snapdragon,90,5G,Yes,No,No,1 Year,OLED,Micro-USB,No,Glass,221,8.1,Very High
+XIA-853,Xiaomi,Android 11,5.46,3000,8,32,24,20,Snapdragon,90,4G,No,Yes,Yes,2 Years,OLED,Micro-USB,No,Plastic,152,9.2,Medium
+VIV-263,Vivo,iOS 14,6.23,4200,2,64,64,15,Apple Bionic,90,5G,Yes,Yes,No,2 Years,OLED,Type-C,No,Plastic,151,8.2,Low
+XIA-482,Xiaomi,Android 12,6.67,3100,6,32,32,30,Exynos,144,5G,Yes,No,No,No Warranty,OLED,Lightning,No,Plastic,156,8.5,Very High
+SAM-905,Samsung,Android 10,6.19,3300,8,512,40,40,Kirin,90,5G,No,No,No,1 Year,IPS,Lightning,No,Glass,210,7.4,Very High
+INF-915,Infinix,iOS 14,5.2,4100,3,32,108,35,Apple Bionic,120,4G,No,Yes,Yes,1 Year,IPS,Type-C,Yes,Glass,181,7.8,High
+OPP-819,Oppo,Android 10,6.46,5200,8,512,84,30,MediaTek,120,4G,Yes,No,Yes,2 Years,IPS,Micro-USB,Yes,Plastic,229,7.7,High
+OPP-353,Oppo,iOS 15,5.11,3500,6,64,8,10,Snapdragon,120,4G,No,No,No,2 Years,AMOLED,Lightning,No,Plastic,206,8.7,Low
+VIV-750,Vivo,Android 10,6.64,3700,2,64,32,20,Apple Bionic,90,4G,No,No,No,No Warranty,AMOLED,Lightning,No,Plastic,219,7.1,High
+HUA-692,Huawei,iOS 15,6.81,4400,3,512,108,20,MediaTek,90,5G,No,Yes,No,2 Years,OLED,Micro-USB,No,Plastic,174,7.0,Very High
+TEC-899,Tecno,Android 10,6.36,3900,6,512,16,15,Kirin,60,5G,Yes,No,No,1 Year,LCD,Lightning,Yes,Plastic,125,8.2,High
+VIV-382,Vivo,Android 10,5.96,5400,6,64,92,25,Snapdragon,60,4G,Yes,No,Yes,No Warranty,LCD,Micro-USB,No,Glass,188,6.7,High
+XIA-189,Xiaomi,Android 12,5.6,3900,6,512,40,35,Apple Bionic,60,4G,Yes,Yes,Yes,2 Years,IPS,Type-C,Yes,Plastic,206,7.2,Medium
+APP-920,Apple,Android 12,6.65,5800,6,128,64,25,MediaTek,90,4G,Yes,No,No,2 Years,IPS,Type-C,Yes,Glass,141,8.1,Medium
+REA-495,Realme,Android 11,6.04,3100,6,32,84,25,Kirin,90,4G,Yes,Yes,Yes,1 Year,IPS,Lightning,No,Glass,122,6.8,Medium
+VIV-489,Vivo,iOS 15,6.58,4000,8,128,8,15,MediaTek,90,4G,Yes,No,Yes,No Warranty,OLED,Lightning,No,Plastic,148,7.3,Very High
+VIV-769,Vivo,iOS 14,5.97,3800,6,512,24,40,MediaTek,120,4G,Yes,Yes,Yes,2 Years,IPS,Micro-USB,Yes,Metal,134,8.9,Very High
+TEC-704,Tecno,iOS 14,6.38,4000,8,32,100,5,Kirin,90,4G,Yes,Yes,Yes,2 Years,LCD,Micro-USB,Yes,Metal,238,7.7,Medium
+SAM-519,Samsung,Android 12,5.25,4400,2,512,20,5,Snapdragon,90,4G,No,No,No,No Warranty,IPS,Micro-USB,No,Metal,126,7.3,Medium
+APP-111,Apple,Android 10,6.64,5300,8,512,44,20,MediaTek,90,4G,Yes,Yes,No,1 Year,AMOLED,Lightning,Yes,Plastic,138,6.8,High
+INF-610,Infinix,iOS 15,6.64,3700,4,128,80,15,Exynos,144,4G,Yes,Yes,No,1 Year,OLED,Lightning,Yes,Plastic,229,8.0,Medium
+HUA-547,Huawei,Android 12,6.37,5100,4,128,40,35,Snapdragon,120,5G,No,Yes,Yes,1 Year,AMOLED,Micro-USB,No,Glass,220,8.8,Very High
+REA-299,Realme,iOS 14,5.67,5400,3,512,12,40,Kirin,60,5G,Yes,No,Yes,No Warranty,OLED,Type-C,No,Glass,206,7.9,Very High
+APP-439,Apple,Android 10,6.98,5300,12,256,88,40,MediaTek,144,4G,Yes,Yes,Yes,No Warranty,OLED,Micro-USB,Yes,Glass,195,8.5,Medium
+SAM-691,Samsung,Android 11,5.95,5800,3,32,104,25,Kirin,90,5G,Yes,Yes,No,1 Year,AMOLED,Type-C,Yes,Metal,133,8.5,Medium
+OPP-191,Oppo,Android 12,5.99,4100,4,512,32,35,MediaTek,144,4G,No,Yes,Yes,1 Year,AMOLED,Lightning,No,Metal,125,7.7,High
+APP-446,Apple,Android 10,6.43,3500,12,128,28,15,Snapdragon,144,5G,No,Yes,Yes,No Warranty,AMOLED,Type-C,No,Plastic,171,8.4,Medium
+SAM-398,Samsung,iOS 14,6.64,3700,2,32,8,10,Exynos,144,5G,No,Yes,No,2 Years,AMOLED,Lightning,No,Metal,155,7.9,Very High
+APP-781,Apple,iOS 14,6.13,3300,3,128,76,30,Exynos,144,4G,No,Yes,No,1 Year,LCD,Lightning,Yes,Metal,163,8.8,Low
+APP-138,Apple,Android 12,5.64,4900,8,128,92,20,Exynos,90,4G,Yes,Yes,No,2 Years,AMOLED,Lightning,Yes,Plastic,154,7.6,Low
+INF-928,Infinix,Android 11,6.26,4600,3,128,16,5,MediaTek,60,5G,Yes,No,Yes,1 Year,IPS,Micro-USB,No,Metal,200,9.0,Medium
+SAM-973,Samsung,Android 10,5.41,4600,2,64,80,20,Snapdragon,144,4G,Yes,No,No,No Warranty,OLED,Micro-USB,Yes,Plastic,128,9.5,Low
+HUA-308,Huawei,Android 10,5.61,4700,3,128,44,15,MediaTek,90,5G,No,Yes,No,2 Years,OLED,Micro-USB,No,Plastic,126,6.9,Very High
+APP-906,Apple,Android 12,6.89,5500,3,32,88,15,Apple Bionic,60,4G,No,Yes,Yes,2 Years,OLED,Micro-USB,Yes,Metal,128,9.2,High
+SAM-826,Samsung,iOS 15,5.38,4600,3,32,64,25,MediaTek,60,5G,Yes,No,No,1 Year,IPS,Type-C,No,Glass,239,9.3,Low
+XIA-543,Xiaomi,iOS 14,6.46,3300,6,32,40,15,Snapdragon,60,5G,Yes,Yes,Yes,No Warranty,AMOLED,Type-C,No,Metal,158,7.6,High
+OPP-622,Oppo,Android 10,6.88,5000,3,256,48,40,Exynos,60,4G,No,Yes,Yes,2 Years,OLED,Micro-USB,Yes,Glass,125,9.3,Medium
+OPP-164,Oppo,Android 11,6.6,4800,12,64,60,15,MediaTek,120,4G,No,No,No,No Warranty,AMOLED,Lightning,No,Plastic,143,9.1,High
+HUA-568,Huawei,iOS 14,5.22,3300,6,64,68,35,MediaTek,90,5G,No,No,Yes,2 Years,LCD,Lightning,No,Plastic,137,6.8,Medium
+SAM-585,Samsung,iOS 14,5.33,6000,3,32,88,30,MediaTek,60,5G,Yes,No,No,1 Year,AMOLED,Lightning,Yes,Metal,220,8.2,Medium
+HUA-341,Huawei,Android 10,6.44,4500,12,512,32,35,Kirin,60,5G,Yes,Yes,No,No Warranty,OLED,Type-C,No,Metal,160,9.0,Low
+INF-306,Infinix,Android 11,5.41,3300,6,512,100,25,Apple Bionic,90,4G,No,No,Yes,2 Years,IPS,Micro-USB,No,Glass,191,7.2,Very High
+VIV-398,Vivo,Android 12,6.42,3200,3,32,68,5,MediaTek,90,4G,Yes,Yes,No,2 Years,AMOLED,Lightning,No,Glass,157,8.3,Very High
+APP-606,Apple,Android 11,5.9,4700,6,512,48,35,Apple Bionic,60,4G,No,Yes,Yes,2 Years,OLED,Micro-USB,Yes,Plastic,233,8.9,Low
+HUA-996,Huawei,iOS 14,5.12,3500,8,128,44,15,MediaTek,90,4G,No,No,Yes,No Warranty,OLED,Lightning,No,Glass,204,8.7,High
+XIA-671,Xiaomi,iOS 14,5.84,3500,8,256,76,35,Apple Bionic,60,5G,Yes,Yes,No,1 Year,OLED,Type-C,No,Metal,173,8.9,Very High
+HUA-480,Huawei,Android 10,6.88,4200,12,256,40,5,Kirin,60,5G,Yes,No,Yes,2 Years,LCD,Type-C,No,Plastic,226,8.4,Low
+XIA-222,Xiaomi,Android 11,5.5,4600,6,128,40,35,MediaTek,120,5G,No,No,Yes,1 Year,LCD,Lightning,No,Metal,185,7.4,High
+VIV-467,Vivo,Android 10,6.45,3400,6,128,60,5,Snapdragon,120,4G,No,No,Yes,2 Years,IPS,Micro-USB,Yes,Plastic,226,7.7,High
+TEC-960,Tecno,Android 11,5.28,3400,12,256,32,5,Snapdragon,144,5G,No,Yes,No,No Warranty,LCD,Micro-USB,No,Metal,228,7.8,Low
+INF-155,Infinix,Android 11,6.66,4200,8,256,28,35,Apple Bionic,144,4G,Yes,No,Yes,2 Years,OLED,Micro-USB,No,Glass,204,8.2,Medium
+VIV-122,Vivo,iOS 15,5.96,4600,8,128,40,10,Apple Bionic,90,4G,No,No,Yes,2 Years,IPS,Type-C,No,Metal,132,7.4,Low
+XIA-751,Xiaomi,Android 10,5.37,3100,4,32,16,15,Snapdragon,60,5G,No,No,No,1 Year,AMOLED,Lightning,Yes,Glass,170,9.2,High
+VIV-927,Vivo,iOS 14,5.04,3300,4,512,36,25,Exynos,90,5G,No,No,No,2 Years,OLED,Lightning,Yes,Metal,209,8.2,High
+REA-429,Realme,Android 11,6.52,5300,12,256,108,35,Snapdragon,120,4G,Yes,No,No,2 Years,IPS,Lightning,Yes,Metal,216,9.5,Low
+OPP-528,Oppo,Android 12,5.29,3200,6,256,28,40,Exynos,120,4G,No,Yes,Yes,No Warranty,OLED,Micro-USB,Yes,Glass,240,9.4,Medium
+HUA-689,Huawei,iOS 14,5.51,3400,2,512,104,25,Apple Bionic,60,4G,No,No,Yes,2 Years,AMOLED,Micro-USB,No,Glass,222,7.7,High
+SAM-532,Samsung,Android 11,5.47,3400,4,256,44,5,Exynos,60,4G,No,Yes,Yes,No Warranty,LCD,Micro-USB,Yes,Glass,218,8.2,Medium
+XIA-562,Xiaomi,Android 12,6.54,5100,6,512,76,10,Kirin,120,5G,Yes,No,No,1 Year,IPS,Micro-USB,No,Metal,192,9.5,Medium
+OPP-362,Oppo,Android 11,6.56,4300,2,128,80,35,Apple Bionic,144,5G,Yes,Yes,Yes,1 Year,IPS,Micro-USB,Yes,Metal,191,8.0,High
+APP-970,Apple,Android 12,5.62,4700,6,64,88,30,MediaTek,120,4G,No,Yes,Yes,No Warranty,OLED,Type-C,Yes,Plastic,192,8.4,Low
+INF-899,Infinix,Android 12,6.05,4000,2,32,108,15,Snapdragon,90,4G,No,No,Yes,1 Year,LCD,Lightning,No,Glass,120,7.7,Very High
+APP-229,Apple,iOS 15,5.11,6000,8,32,24,30,Kirin,90,4G,Yes,No,No,No Warranty,IPS,Lightning,No,Metal,178,8.7,Medium
+TEC-943,Tecno,iOS 14,6.73,3100,2,64,20,20,Exynos,90,4G,No,No,Yes,1 Year,OLED,Lightning,Yes,Plastic,226,9.2,Medium
+INF-922,Infinix,Android 12,5.57,5500,4,512,108,25,Exynos,120,5G,Yes,Yes,No,No Warranty,OLED,Type-C,Yes,Plastic,124,7.4,Very High
+XIA-916,Xiaomi,Android 12,6.26,3500,8,512,44,15,Exynos,120,4G,No,Yes,No,2 Years,AMOLED,Lightning,Yes,Glass,206,7.6,Very High
+INF-379,Infinix,Android 12,6.19,5800,2,32,96,5,Apple Bionic,144,5G,No,Yes,No,No Warranty,OLED,Type-C,No,Plastic,129,8.7,Medium
+OPP-613,Oppo,Android 10,5.45,5600,3,32,60,25,Snapdragon,90,5G,Yes,No,Yes,No Warranty,IPS,Type-C,Yes,Metal,147,7.0,Low
+VIV-547,Vivo,Android 12,6.44,3400,3,256,28,20,Exynos,60,5G,Yes,Yes,Yes,No Warranty,AMOLED,Lightning,No,Plastic,144,8.6,High
+APP-297,Apple,iOS 15,6.77,4300,12,32,92,30,Snapdragon,60,5G,No,Yes,Yes,1 Year,OLED,Type-C,No,Glass,222,6.6,Very High
+TEC-474,Tecno,Android 10,5.26,6000,4,512,44,35,Exynos,120,4G,Yes,No,No,2 Years,AMOLED,Type-C,Yes,Plastic,153,8.8,High
+APP-776,Apple,iOS 14,5.66,5300,4,32,16,40,Exynos,144,5G,Yes,No,Yes,No Warranty,LCD,Lightning,No,Metal,205,7.9,High
+TEC-881,Tecno,iOS 14,6.06,3200,6,32,28,40,Kirin,60,5G,No,No,Yes,No Warranty,LCD,Type-C,No,Glass,137,7.5,Medium
+REA-321,Realme,Android 12,6.33,4000,8,256,40,10,Snapdragon,90,5G,No,Yes,Yes,2 Years,AMOLED,Micro-USB,Yes,Metal,124,9.3,Medium
+APP-377,Apple,iOS 15,6.85,3700,6,32,80,25,Snapdragon,144,5G,No,No,Yes,2 Years,LCD,Lightning,Yes,Metal,209,6.8,High
+VIV-761,Vivo,Android 11,5.94,3400,6,128,24,10,Exynos,144,4G,Yes,Yes,No,1 Year,OLED,Micro-USB,Yes,Metal,151,9.3,Low
+INF-548,Infinix,iOS 14,5.0,4300,8,64,100,30,Apple Bionic,90,5G,Yes,Yes,No,1 Year,LCD,Lightning,No,Plastic,219,7.1,Very High
+APP-804,Apple,iOS 14,6.1,3500,8,64,68,25,Exynos,60,4G,No,Yes,Yes,No Warranty,IPS,Type-C,No,Metal,198,7.2,High
+HUA-749,Huawei,iOS 14,5.73,3000,2,512,96,5,Apple Bionic,60,5G,Yes,No,Yes,No Warranty,IPS,Lightning,Yes,Glass,154,7.0,Very High
+XIA-621,Xiaomi,iOS 15,5.85,3800,12,256,16,5,MediaTek,90,5G,No,No,Yes,No Warranty,LCD,Micro-USB,No,Glass,139,6.6,High
+INF-460,Infinix,iOS 15,5.42,4700,6,512,108,20,MediaTek,60,5G,Yes,Yes,No,No Warranty,AMOLED,Lightning,Yes,Plastic,123,6.7,Very High
+HUA-993,Huawei,Android 11,6.66,4900,8,256,88,40,Exynos,144,4G,Yes,Yes,No,2 Years,AMOLED,Type-C,Yes,Metal,201,7.1,Medium
+XIA-678,Xiaomi,Android 10,5.58,3300,3,64,28,15,Snapdragon,120,5G,No,No,Yes,1 Year,AMOLED,Type-C,Yes,Glass,172,7.3,Very High
+SAM-763,Samsung,Android 12,5.94,3000,6,32,36,40,Kirin,60,4G,Yes,No,No,2 Years,IPS,Lightning,Yes,Plastic,239,8.6,Medium
+SAM-668,Samsung,Android 12,6.37,4300,4,32,68,30,Kirin,120,5G,Yes,No,No,No Warranty,IPS,Lightning,Yes,Metal,199,8.0,High
+OPP-867,Oppo,iOS 15,5.04,4400,12,32,24,40,MediaTek,144,4G,No,Yes,No,1 Year,AMOLED,Type-C,No,Glass,158,7.4,Medium
+INF-459,Infinix,iOS 14,6.79,3400,4,64,52,25,Kirin,60,5G,No,No,No,2 Years,OLED,Micro-USB,No,Glass,236,7.6,Medium
+TEC-604,Tecno,iOS 15,5.39,3200,12,128,76,25,Apple Bionic,60,4G,No,Yes,Yes,1 Year,OLED,Micro-USB,No,Plastic,177,8.0,Low
+XIA-500,Xiaomi,Android 12,5.1,6000,8,128,28,5,Apple Bionic,120,5G,No,No,No,1 Year,AMOLED,Micro-USB,No,Metal,141,8.4,Very High
+HUA-892,Huawei,Android 10,5.09,4100,3,512,88,40,Apple Bionic,144,4G,No,Yes,Yes,2 Years,AMOLED,Lightning,Yes,Plastic,175,8.8,Medium
+TEC-649,Tecno,Android 10,6.43,3500,8,32,68,15,MediaTek,144,4G,Yes,No,Yes,No Warranty,IPS,Lightning,No,Metal,214,8.8,Very High
+HUA-298,Huawei,Android 12,5.24,3100,3,512,92,25,Apple Bionic,60,5G,Yes,No,Yes,1 Year,LCD,Type-C,No,Glass,136,8.9,High
+XIA-968,Xiaomi,iOS 15,6.52,5700,4,64,56,40,MediaTek,120,4G,No,Yes,Yes,No Warranty,OLED,Micro-USB,No,Metal,143,8.4,Low
+SAM-976,Samsung,iOS 14,5.35,5600,6,128,88,30,Exynos,144,5G,No,Yes,No,1 Year,IPS,Lightning,Yes,Plastic,138,7.8,Very High
+TEC-657,Tecno,iOS 15,5.95,3000,6,128,68,40,Kirin,120,4G,No,Yes,No,No Warranty,LCD,Type-C,Yes,Plastic,198,8.8,Medium
+HUA-328,Huawei,iOS 15,6.96,3100,8,256,80,5,Exynos,120,5G,Yes,Yes,No,No Warranty,AMOLED,Micro-USB,Yes,Glass,187,8.3,Medium
+VIV-576,Vivo,Android 11,6.11,5500,12,512,20,5,Snapdragon,90,5G,Yes,Yes,Yes,1 Year,AMOLED,Type-C,Yes,Glass,145,6.9,High
+REA-883,Realme,Android 10,6.39,3300,12,32,56,10,Apple Bionic,120,5G,No,Yes,No,1 Year,IPS,Micro-USB,Yes,Glass,139,8.1,High
+OPP-235,Oppo,Android 10,5.2,3400,2,32,60,25,MediaTek,120,4G,Yes,No,Yes,2 Years,IPS,Lightning,Yes,Plastic,156,9.2,Low
+VIV-633,Vivo,Android 11,5.58,5300,8,32,64,10,MediaTek,144,4G,Yes,Yes,Yes,2 Years,LCD,Lightning,No,Glass,161,7.5,Low
+XIA-722,Xiaomi,iOS 15,5.06,5400,6,128,92,10,Exynos,90,4G,No,No,Yes,No Warranty,IPS,Lightning,Yes,Metal,184,6.6,Very High
+VIV-948,Vivo,Android 11,5.62,3300,2,512,80,15,MediaTek,90,5G,No,No,No,1 Year,LCD,Micro-USB,No,Plastic,228,8.5,High
+SAM-105,Samsung,Android 12,6.83,4500,2,256,88,15,Exynos,120,5G,Yes,No,No,2 Years,OLED,Type-C,No,Plastic,160,9.4,Medium
+TEC-210,Tecno,Android 11,6.63,4900,6,64,84,25,Exynos,120,4G,Yes,No,Yes,1 Year,IPS,Micro-USB,No,Metal,189,7.2,Medium
+APP-921,Apple,Android 12,6.98,5000,3,256,48,30,MediaTek,144,4G,No,Yes,No,2 Years,OLED,Lightning,No,Metal,240,7.3,Very High
+APP-931,Apple,iOS 15,5.39,4900,12,128,96,10,Apple Bionic,144,4G,No,Yes,Yes,No Warranty,IPS,Lightning,No,Metal,202,8.2,Very High
+SAM-412,Samsung,Android 12,6.98,5000,8,128,44,15,Kirin,60,4G,No,Yes,No,1 Year,AMOLED,Type-C,No,Metal,169,6.5,Low
+XIA-720,Xiaomi,iOS 14,6.77,5600,6,32,12,15,Snapdragon,144,5G,No,No,No,2 Years,OLED,Type-C,Yes,Glass,189,9.1,Low
+XIA-112,Xiaomi,Android 11,5.2,5600,8,128,76,15,Kirin,144,4G,No,Yes,No,2 Years,LCD,Type-C,Yes,Plastic,150,8.4,High
+SAM-512,Samsung,Android 12,5.45,4300,2,256,68,10,Apple Bionic,60,4G,Yes,Yes,No,No Warranty,AMOLED,Micro-USB,No,Metal,230,7.7,High
+XIA-103,Xiaomi,Android 10,5.03,3700,2,128,16,10,Apple Bionic,90,5G,No,No,Yes,2 Years,IPS,Micro-USB,Yes,Glass,122,7.1,Very High
+SAM-467,Samsung,iOS 15,5.94,5600,8,512,76,5,Snapdragon,120,4G,Yes,Yes,No,2 Years,AMOLED,Lightning,Yes,Metal,151,7.2,Very High
+TEC-710,Tecno,Android 12,5.19,3000,12,32,92,5,Snapdragon,90,5G,Yes,No,Yes,No Warranty,AMOLED,Type-C,Yes,Glass,141,7.2,Low
+OPP-674,Oppo,iOS 15,5.58,3200,12,64,100,15,Snapdragon,120,5G,Yes,Yes,Yes,No Warranty,AMOLED,Micro-USB,Yes,Plastic,214,8.7,Very High
+REA-593,Realme,Android 10,5.82,3800,3,64,24,20,Exynos,144,5G,Yes,Yes,Yes,No Warranty,AMOLED,Lightning,Yes,Metal,238,7.5,Very High
+TEC-139,Tecno,Android 12,6.78,4900,4,64,104,25,Snapdragon,120,4G,No,No,Yes,No Warranty,IPS,Micro-USB,Yes,Metal,228,8.2,High
+OPP-843,Oppo,iOS 15,5.23,4400,12,128,88,25,Apple Bionic,120,4G,No,Yes,Yes,No Warranty,IPS,Lightning,No,Plastic,211,7.7,Low
+REA-417,Realme,Android 12,5.9,4000,8,256,20,30,Apple Bionic,120,4G,No,Yes,No,2 Years,LCD,Lightning,No,Glass,130,6.7,Low
+XIA-172,Xiaomi,Android 11,6.05,5300,12,32,80,20,Apple Bionic,120,4G,No,No,No,2 Years,AMOLED,Lightning,Yes,Glass,183,9.5,Low
+SAM-621,Samsung,iOS 14,6.07,5000,8,32,48,40,MediaTek,120,5G,No,No,No,No Warranty,OLED,Micro-USB,Yes,Metal,172,8.3,Medium
+APP-205,Apple,Android 10,6.81,3600,2,256,108,5,Apple Bionic,90,5G,No,No,Yes,1 Year,OLED,Lightning,No,Glass,210,8.0,High
+TEC-317,Tecno,iOS 14,5.67,5700,2,128,36,20,Snapdragon,90,5G,No,Yes,Yes,1 Year,IPS,Lightning,No,Glass,214,7.5,High
+TEC-281,Tecno,iOS 15,6.64,4300,2,128,96,5,Kirin,120,5G,Yes,Yes,No,1 Year,LCD,Type-C,No,Metal,164,7.0,High
+HUA-441,Huawei,Android 11,6.03,4200,3,256,40,40,Apple Bionic,120,4G,No,No,No,2 Years,AMOLED,Lightning,Yes,Glass,124,6.6,Medium
+XIA-559,Xiaomi,iOS 15,5.43,5800,3,32,84,10,Apple Bionic,120,5G,No,No,Yes,2 Years,AMOLED,Lightning,Yes,Metal,158,9.4,Medium
+INF-113,Infinix,iOS 14,5.36,5200,4,256,76,25,Snapdragon,144,5G,No,No,No,No Warranty,IPS,Micro-USB,Yes,Glass,193,9.3,High
+REA-153,Realme,Android 12,6.54,4700,6,128,60,35,Exynos,90,4G,Yes,No,No,1 Year,LCD,Lightning,Yes,Plastic,166,9.1,Low
+HUA-300,Huawei,Android 10,6.09,4300,8,512,44,15,MediaTek,60,4G,Yes,No,Yes,2 Years,IPS,Type-C,No,Plastic,219,6.8,Very High
+VIV-196,Vivo,Android 11,5.81,4400,6,512,76,35,Snapdragon,60,5G,No,No,Yes,2 Years,IPS,Lightning,No,Metal,216,6.7,Very High
+TEC-608,Tecno,iOS 14,6.56,5700,4,32,96,25,MediaTek,120,5G,No,No,No,1 Year,AMOLED,Micro-USB,No,Metal,233,8.2,Medium
+REA-778,Realme,Android 11,6.95,3200,3,64,44,15,Kirin,144,5G,No,No,No,No Warranty,AMOLED,Type-C,Yes,Plastic,146,7.9,Medium
+HUA-203,Huawei,Android 12,6.34,3700,3,128,40,10,Apple Bionic,120,4G,No,Yes,No,No Warranty,OLED,Micro-USB,No,Metal,222,8.7,High
+VIV-707,Vivo,Android 12,6.05,4800,2,256,44,30,Snapdragon,120,4G,No,No,No,2 Years,OLED,Micro-USB,No,Metal,139,8.1,High
+TEC-316,Tecno,Android 11,5.76,5000,6,128,72,10,Kirin,144,5G,Yes,No,No,2 Years,OLED,Micro-USB,No,Plastic,240,8.2,Low
+OPP-449,Oppo,Android 10,6.32,5600,3,32,32,40,Kirin,120,5G,Yes,Yes,No,2 Years,AMOLED,Micro-USB,Yes,Plastic,192,8.1,Low
+XIA-387,Xiaomi,Android 12,6.89,5500,6,128,68,15,MediaTek,144,5G,No,Yes,No,2 Years,IPS,Micro-USB,Yes,Glass,234,8.1,Low
+APP-883,Apple,Android 10,5.81,5300,3,32,72,15,Kirin,60,5G,No,Yes,No,No Warranty,LCD,Type-C,No,Glass,234,7.2,Low
+VIV-323,Vivo,Android 12,6.23,5600,2,256,12,5,MediaTek,144,5G,Yes,No,Yes,2 Years,IPS,Lightning,Yes,Glass,222,7.7,Medium
+APP-744,Apple,Android 12,5.42,5900,3,512,32,15,Exynos,60,4G,No,Yes,No,1 Year,AMOLED,Type-C,No,Glass,187,8.6,Very High
+HUA-852,Huawei,Android 10,6.37,3800,2,512,96,5,Kirin,144,5G,Yes,No,Yes,1 Year,IPS,Lightning,Yes,Plastic,233,6.9,Very High
+HUA-242,Huawei,Android 11,6.42,4600,3,64,80,10,Apple Bionic,144,5G,No,Yes,Yes,2 Years,OLED,Micro-USB,Yes,Glass,211,9.5,Low
